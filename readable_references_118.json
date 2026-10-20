@@ -1,0 +1,828 @@
+[
+  {
+    "id": 0,
+    "name": "ADHD",
+    "overview": "**ADHD** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: brain-development condition involving developmentally inappropriate, impairing inattention and/or hyperactivity-impulsivity across settings. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess childhood onset, difficulty managing everyday activities, history across settings, sleep, mood, learning and substance factors. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Symptoms alone are insufficient; DSM-5-TR requires multiple criteria and onset of several symptoms before age 12. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 1,
+    "name": "Adjustment disorder",
+    "overview": "**Adjustment disorder** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Emotional or behavioral symptoms in response to an identifiable stressor, with distress or difficulty managing everyday activities disproportionate to context. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Establish timing relative to the stressor, functioning, cultural context and alternative disorders. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Symptoms typically begin within three months of the stressor; consider whether another disorder better explains the presentation. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 2,
+    "name": "Alcohol withdrawal",
+    "overview": "**Alcohol withdrawal** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: automatic body-function and involving brain function and mental health syndrome after reduction or cessation of sustained heavy alcohol use. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Ask about drinking history, timing, tremor, sweating, agitation, seizures, seeing, hearing, or sensing something without an external source and vital signs. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Seizures and delirium tremens can be life-threatening and require urgent medical care. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 3,
+    "name": "ALS",
+    "overview": "**ALS** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Amyotrophic lateral sclerosis is a gradually worsening movement-related neuron disease affecting upper and lower movement-related neuron pathways. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess gradually worsening weakness, atrophy, fasciculations, spasticity, bulbar and respiratory function; exclude mimics. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? sensation-related loss is not usually a dominant feature; diagnosis requires specialist clinical assessment and often EMG. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 4,
+    "name": "Alzheimer-related logopenic PPA",
+    "overview": "**Alzheimer-related logopenic PPA** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Language-led associated with gradual damage to nerve cells syndrome with word-finding pauses and reduced sentence repetition; Alzheimer pathology is a common cause. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Evaluate naming, repetition, phonological working memory, neuropsychology, MRI (detailed magnetic scan) (detailed magnetic scan) and, when appropriate, biomarkers. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Logopenic primary gradually worsening aphasia is a syndrome; Alzheimer pathology should not be assumed without supportive evidence. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 5,
+    "name": "Anxiety",
+    "overview": "**Anxiety** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: A normal emotional state of apprehension or threat anticipation that can also occur in medical and mental-health disorders. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Explore triggers, duration, avoidance, physical symptoms, difficulty managing everyday activities and medical or substance causes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Anxiety itself is a symptom, not a specific anxiety disorder. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 6,
+    "name": "anxiety disorder",
+    "overview": "**anxiety disorder** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Umbrella term for disorders involving excessive fear or anxiety and associated avoidance or difficulty managing everyday activities. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Characterize the feared situations, time course, functional impact and alternative medical causes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Panic disorder, phobias, generalized anxiety disorder and other anxiety disorders have different criteria. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 7,
+    "name": "aphasic stroke",
+    "overview": "**aphasic stroke** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Stroke affecting language networks, often in the dominant cerebral hemisphere, causing sudden language difficulty managing everyday activities. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgently assess onset time, language, other deficits and brain/vascular imaging. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Sudden aphasia is a stroke emergency until proven otherwise; seizures and migraine can mimic it. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 8,
+    "name": "ARFID",
+    "overview": "**ARFID** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Avoidant/restrictive food intake disorder: insufficient intake due to sensation-related aversion, low interest or fear of consequences, without weight/shape disturbance driving restriction. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess growth, nutrition, deficiencies, psychosocial impact and exclusion of medical or cultural explanations. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Unlike anorexia nervosa, restriction is not primarily motivated by fear of weight gain. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 9,
+    "name": "arrhythmia",
+    "overview": "**arrhythmia** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Abnormal cardiac rhythm that may cause palpitations, dizziness, fainting or instability. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess pulse, ECG, symptom rhythm correlation, medications, electrolytes and cardiac risk. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Syncope with chest pain, exertion or family history of sudden death warrants urgent assessment. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 10,
+    "name": "arterial stroke",
+    "overview": "**arterial stroke** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: acute ischemic brain injury caused by interruption of arterial blood flow. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Record last-known-well time; urgent stroke evaluation with brain and vascular imaging. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Sudden affecting a particular area deficit requires emergency care; reperfusion eligibility is time-dependent. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 11,
+    "name": "autoimmune encephalitis",
+    "overview": "**autoimmune encephalitis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Inflammatory brain syndrome mediated by immune mechanisms, potentially causing recently developing memory, behavioral, seizure or movement symptoms. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess recently developing evolution, MRI (detailed magnetic scan) (detailed magnetic scan), EEG (recording of electrical activity in the brain) (recording of electrical activity in the brain), CSF (fluid around the brain and spinal cord) (fluid around the brain and spinal cord), antibody testing and infectious mimics in specialist care. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Normal early MRI (detailed magnetic scan) (detailed magnetic scan) or negative antibody tests do not necessarily exclude the diagnosis; infection must be evaluated. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 12,
+    "name": "avoidant personality traits",
+    "overview": "**avoidant personality traits** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: ongoing tendencies toward social inhibition and fear of criticism that may be subclinical. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Explore duration, context, distress, interpersonal goals and functional impact. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Traits alone do not establish avoidant personality disorder. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 13,
+    "name": "B12 deficiency",
+    "overview": "**B12 deficiency** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Low vitamin B12 causing hematologic, neurological and thinking-related manifestations, sometimes without anemia. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Check B12 status, blood count and relevant confirmatory tests; evaluate diet, absorption and neurological signs. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Untreated neurological damage may persist; normal blood count does not exclude neurological involvement. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 14,
+    "name": "bipolar depression",
+    "overview": "**bipolar depression** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Depressive episode occurring in a person with bipolar disorder, often clinically resembling unipolar depression. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Ask specifically about past a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning/a noticeable period of increased energy or mood that is less severe than full a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning, medications, substances, safety and longitudinal course. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A current depressive episode cannot establish bipolar disorder without relevant mood episode history. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 15,
+    "name": "bipolar depression with psychotic features",
+    "overview": "**bipolar depression with psychotic features** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Bipolar depressive episode accompanied by strongly held beliefs that remain despite compelling evidence against them or seeing, hearing, or sensing something without an external source. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Confirm depressive episode, bipolar history, psychosis timing and urgent safety risks. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? psychosis occurring independently of mood episodes broadens the differential to schizoaffective and primary psychotic disorders. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 16,
+    "name": "Bipolar disorder",
+    "overview": "**Bipolar disorder** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Mood disorder spectrum characterized by episodes of a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning and/or a noticeable period of increased energy or mood that is less severe than full mania, often with depression. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Obtain longitudinal mood, energy, sleep, activity, difficulty managing everyday activities and treatment history. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Bipolar I requires a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning; bipolar II involves a noticeable period of increased energy or mood that is less severe than full a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning and major depression without past a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 17,
+    "name": "Bipolar disorder with psychotic features",
+    "overview": "**Bipolar disorder with psychotic features** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Bipolar disorder in which symptoms such as hallucinations or strongly held false beliefs occur during mood episodes. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Establish whether psychosis is confined to a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning or depression and assess risk. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? psychosis during an elevated episode makes that episode related to a severe episode of unusually high or irritable mood and energy, not related to a less severe elevated-energy mood episode than a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 18,
+    "name": "bipolar mania",
+    "overview": "**bipolar mania** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: related to a severe episode of unusually high or irritable mood and energy episode with abnormally elevated or irritable mood and increased activity or energy, plus characteristic associated changes. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess duration, sleep need, speech, judgment, risk, difficulty managing everyday activities and substance or medical causes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A full related to a severe episode of unusually high or irritable mood and energy episode generally lasts at least one week or any duration if hospitalization is necessary. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 19,
+    "name": "bipolar psychosis",
+    "overview": "**bipolar psychosis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Informal label for symptoms such as hallucinations or strongly held false beliefs occurring during a bipolar mood episode. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Document exact relationship between mood and symptoms such as seeing, hearing, or sensing something without an external source or strongly held false beliefs. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not a separate DSM-5-TR diagnosis; classify the underlying bipolar episode with psychotic features. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 20,
+    "name": "botulism",
+    "overview": "**botulism** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Neuroparalytic illness due to botulinum toxin impairing neuromuscular transmission. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgently assess descending weakness, cranial nerves, swallowing, breathing and exposure history. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A medical emergency; pupils and automatic body-function findings may help distinguish it from myasthenia gravis. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 21,
+    "name": "Brain metastasis",
+    "overview": "**Brain metastasis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Secondary brain tumor resulting from cancer spreading from another organ. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess cancer history, affecting a particular area signs, seizures and contrast MRI (detailed magnetic scan) (detailed magnetic scan); coordinate oncology workup. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Multiple lesions suggest but do not prove metastases; tissue diagnosis may be necessary. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 22,
+    "name": "Cervical radiculopathy",
+    "overview": "**Cervical radiculopathy** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Irritation or compression of a cervical nerve root causing neck/arm pain and segmental sensation-related or movement-related symptoms. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Examine myotomes, reflexes, dermatomes and red flags; image selectively. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Differentiate from peripheral entrapment and cervical myelopathy. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 23,
+    "name": "chronic pain with adaptive coping",
+    "overview": "**chronic pain with adaptive coping** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: ongoing pain accompanied by effective coping strategies and maintained functioning; this is not a disease diagnosis. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess pain mechanism, interference, mood, sleep and functional goals. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Adaptive coping does not imply pain is unreal or exclude treatable pathology. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 24,
+    "name": "circadian rhythm disorder",
+    "overview": "**circadian rhythm disorder** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Sleep-wake disturbance from mismatch between internal circadian timing and desired schedule. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Use sleep history, diaries, actigraphy when indicated, and evaluate shift work or light exposure. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Distinguish from insufficient sleep and primary difficulty sleeping. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 25,
+    "name": "Copper deficiency",
+    "overview": "**Copper deficiency** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Nutritional or absorption-related deficiency that can produce anemia, neutropenia and myeloneuropathy. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess serum copper/ceruloplasmin, zinc exposure, gastrointestinal history and spinal cord findings. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Can resemble B12-related myelopathy; excess zinc is a potential cause. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 26,
+    "name": "cranial neuropathy",
+    "overview": "**cranial neuropathy** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Dysfunction of one or more cranial nerves affecting eye movements, facial function, sensation, hearing or swallowing. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Localize affected nerve(s), onset, associated deficits and consider imaging/infectious workup. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? This is a localization category, not one disease; multiple nerves may suggest a skull-base or meningeal process. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 27,
+    "name": "Dementia",
+    "overview": "**Dementia** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Acquired thinking-related decline severe enough to interfere with independent daily function, due to various causes. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess thinking abilities, including memory, attention, and planning, function, onset, delirium, depression, medication effects and reversible contributors. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Dementia is a clinical syndrome, not synonymous with Alzheimer disease. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 28,
+    "name": "Depression",
+    "overview": "**Depression** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Low mood or diminished interest that may be a symptom, episode or component of multiple conditions. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess duration, finding less pleasure in things that used to feel enjoyable, neurovegetative changes, function, bipolar history and suicide risk. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A depressive symptom is not necessarily major depressive disorder. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 29,
+    "name": "Depressive disorder",
+    "overview": "**Depressive disorder** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Umbrella category encompassing disorders with clinically significant depressive symptoms and difficulty managing everyday activities. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Determine episode duration, severity, recurrence, developmental context and medical causes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Specific diagnoses such as major depressive disorder and ongoing depressive disorder have distinct requirements. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 30,
+    "name": "Diabetic ketoacidosis",
+    "overview": "**Diabetic ketoacidosis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: acute metabolic emergency with ketonemia and acidosis caused by relative or absolute insulin deficiency. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgent glucose, blood ketones, blood gas, electrolytes and precipitant evaluation. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? DKA can occur with only modest glucose elevation, including with SGLT2 inhibitor use. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 31,
+    "name": "dissociation",
+    "overview": "**dissociation** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Disruption of normal integration of memory, identity, perception, consciousness or experience. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Clarify depersonalization, derealization, amnesia, trauma, seizures and substances. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? a sense of disconnection from memories, identity, surroundings, or experience is a phenomenon, not automatically involving a sense of disconnection from memories, identity, or experience identity disorder. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 32,
+    "name": "DLB",
+    "overview": "**DLB** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Dementia with Lewy bodies: gradually worsening thinking-related syndrome often with fluctuations, visual seeing, hearing, or sensing something without an external source, REM sleep behavior disorder and parkinsonism. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess thinking abilities, including memory, attention, and planning, sleep, movement-related findings, medications and supportive biomarkers where appropriate. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Marked a medicine used to treat certain symptoms such as hallucinations or strongly held false beliefs sensitivity can occur; distinguish from Parkinson disease dementia using clinical timing. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 33,
+    "name": "Drug-induced chorea",
+    "overview": "**Drug-induced chorea** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Involuntary irregular flowing movements associated with medication or substance exposure. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Review dopamine-modulating drugs, stimulants, metabolic factors and onset after exposure. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Consider Huntington disease, metabolic disorders and other causes before attributing movements to a drug. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 34,
+    "name": "drug-induced dystonia",
+    "overview": "**drug-induced dystonia** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Sustained or intermittent muscle contractions producing abnormal postures or twisting, triggered by medication. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Review recent dopamine-blocking agents and onset; assess airway if neck or throat affected. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? acute laryngeal dystonia can threaten breathing and requires emergency care. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 35,
+    "name": "drug-induced parkinsonism",
+    "overview": "**drug-induced parkinsonism** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: slowness of movement with rigidity or tremor associated with dopamine-blocking or dopamine-depleting medication. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Review exposure and timing, examination and alternative degenerative causes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Often more symmetric than idiopathic Parkinson disease, but clinical patterns overlap. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 36,
+    "name": "eating disorder",
+    "overview": "**eating disorder** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Broad category of ongoing eating or feeding disturbances impairing health or psychosocial function. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess intake, weight trajectory, compensatory behavior, medical stability and psychological drivers. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A broad category, not a single diagnosis; ARFID, anorexia, bulimia and binge-eating disorder differ. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 37,
+    "name": "focal seizure",
+    "overview": "**focal seizure** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Seizure beginning in a network limited to one cerebral hemisphere, with variable awareness and movement-related/sensation-related manifestations. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Characterize happening in a similar way each time episodes, witness history, EEG (recording of electrical activity in the brain) (recording of electrical activity in the brain) and MRI (detailed magnetic scan) (detailed magnetic scan) as appropriate. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A single seizure does not automatically establish epilepsy. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 38,
+    "name": "focal seizures",
+    "overview": "**focal seizures** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Plural of affecting a particular area seizure: recurrent or multiple seizures arising in a localized brain network. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess event the detailed pattern of symptoms during an episode, frequency, provoking factors, EEG (recording of electrical activity in the brain) (recording of electrical activity in the brain) and structural causes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? affecting a particular area seizures can spread bilaterally; consider seizure mimics such as syncope. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 39,
+    "name": "functional tic-like behaviors",
+    "overview": "**functional tic-like behaviors** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Tic-like movements or sounds associated with related to problems in how the nervous system works symptom mechanisms, often with unusual rapid onset. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess phenomenology, time course, functional impact and coexistence with Tourette syndrome. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not deliberate or fabricated; diagnosis relies on positive clinical features, not merely normal tests. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 40,
+    "name": "GAD",
+    "overview": "**GAD** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Generalized anxiety disorder: excessive difficult-to-control worry across domains with associated symptoms and difficulty managing everyday activities. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess at least six months of worry in adults, sleep, tension, restlessness, concentration and mimics. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Generalized worry differs from fear restricted to one object or situation. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 41,
+    "name": "gastrointestinal disorder",
+    "overview": "**gastrointestinal disorder** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Broad term for disease affecting the digestive tract or associated organs. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Localize symptoms and assess alarm features, nutrition, stool patterns and relevant testing. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not a single diagnosis; avoid attributing symptoms to anxiety without medical assessment. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 42,
+    "name": "gastrointestinal illness",
+    "overview": "**gastrointestinal illness** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: not unique to one diagnosis digestive illness, acute or long-lasting, infectious or noninfectious. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess hydration, duration, pain, bleeding, fever, medications and exposure history. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Severe abdominal pain, blood loss or dehydration may require urgent care. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 43,
+    "name": "Glioma",
+    "overview": "**Glioma** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Diverse primary CNS tumors with glial differentiation and molecularly defined subtypes. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess neurologic symptoms, MRI (detailed magnetic scan) (detailed magnetic scan) and neuro-oncology review; tissue and molecular testing may be required. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Imaging appearance alone does not establish tumor grade or molecular subtype. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 44,
+    "name": "hepatic encephalopathy",
+    "overview": "**hepatic encephalopathy** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Potentially reversible brain dysfunction associated with severe liver disease or portosystemic shunting. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess mental status, precipitating factors, infection, bleeding, constipation and metabolic alternatives. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Ammonia levels alone do not diagnose or grade the syndrome; consider other causes of altered consciousness. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 45,
+    "name": "HSV encephalitis",
+    "overview": "**HSV encephalitis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Herpes simplex virus infection of brain tissue, often affecting temporal lobes and causing fever, seizures and confusion. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgent a procedure that takes a small sample of fluid from the lower back for testing with CSF (fluid around the brain and spinal cord) (fluid around the brain and spinal cord) PCR, MRI (detailed magnetic scan) (detailed magnetic scan), EEG (recording of electrical activity in the brain) (recording of electrical activity in the brain) and empiric antiviral treatment when suspected. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Potentially fatal without prompt treatment; do not wait for confirmatory PCR to start care when strongly suspected. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 46,
+    "name": "Hyperglycemia",
+    "overview": "**Hyperglycemia** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Blood glucose above the expected range, due to diabetes, stress physiology, drugs or other causes. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Confirm glucose, assess symptoms, HbA1c and dehydration or ketosis when indicated. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A laboratory finding rather than a specific disease; severe symptoms can signal DKA or HHS. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 47,
+    "name": "Hyperosmolar hyperglycemic state",
+    "overview": "**Hyperosmolar hyperglycemic state** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Hyperglycemic emergency with marked hyperosmolality and dehydration, usually with minimal significant ketoacidosis. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgent electrolytes, osmolality, glucose, renal function, ketones and mental status. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? May overlap with DKA; requires hospital treatment. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 48,
+    "name": "hyperthyroidism",
+    "overview": "**hyperthyroidism** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Excess thyroid hormone effect causing weight loss, heat intolerance, tremor, palpitations and anxiety-like symptoms. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Check TSH, free thyroid hormones and cause-specific evaluation. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Thyroid storm is an emergency; do not diagnose an anxiety disorder before considering thyroid disease when indicated. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 49,
+    "name": "Hypoglycemia",
+    "overview": "**Hypoglycemia** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Abnormally low glucose that may cause sweating, tremor, confusion, seizures or loss of consciousness. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Check glucose during symptoms and investigate drugs, fasting or systemic causes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Whipple triad helps confirm clinically important hypoglycemia in people without diabetes; severe episodes require urgent treatment. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 50,
+    "name": "hypothyroidism",
+    "overview": "**hypothyroidism** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Insufficient thyroid hormone effect causing unusual tiredness or reduced energy, cold intolerance, constipation, thinking-related slowing and other symptoms. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Measure TSH and free T4; interpret according to pituitary and clinical context. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Symptoms overlap with depression and many non-thyroid conditions. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 51,
+    "name": "Intracranial bleed",
+    "overview": "**Intracranial bleed** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Bleeding within the skull, including intracerebral, subarachnoid and extra-axial bleeding. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgent neurological evaluation and brain imaging, usually noncontrast CT (X-ray scan) (X-ray scan) initially. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Thunderclap headache, sudden deficits or altered consciousness require emergency assessment. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 52,
+    "name": "intracranial mass",
+    "overview": "**intracranial mass** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Space-occupying intracranial lesion, including tumor, abscess, hematoma or other process. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Evaluate affecting a particular area deficits, seizures, raised-pressure symptoms and appropriate imaging. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? An imaging description, not a specific tumor diagnosis. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 53,
+    "name": "learning disorder",
+    "overview": "**learning disorder** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: ongoing difficulty acquiring academic skills despite appropriate instruction, with difficulty managing everyday activities. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess developmental and educational history, standardized academic performance and alternative explanations. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Specific learning disorder is distinct from intellectual disability and insufficient teaching opportunity. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 54,
+    "name": "Lyme disease",
+    "overview": "**Lyme disease** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Tick-borne Borrelia infection with variable skin, joint, cardiac and neurological manifestations. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Use exposure history, examination and stage-appropriate validated serology when indicated. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Testing without compatible clinical context may mislead; facial palsy and meningoradiculitis are possible manifestations. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 55,
+    "name": "medical illness",
+    "overview": "**medical illness** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: General label for physical health conditions, not an independent diagnosis. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Investigate organ-system symptoms and objective abnormalities guided by history and examination. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A placeholder in differential reasoning; replace with a specific diagnosis when supported. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 56,
+    "name": "medical weight loss",
+    "overview": "**medical weight loss** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Weight reduction attributable to illness, medication or other physiological cause rather than a mental-health eating disorder. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess trajectory, intake, systemic symptoms, medication and targeted testing. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Unintentional weight loss is a finding; distinguish from intentional dieting or restrictive eating pathology. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 57,
+    "name": "medication-overuse headache",
+    "overview": "**medication-overuse headache** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Headache associated with regular overuse of acute headache medication in someone with a pre-existing headache disorder. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Document headache days, medication days and duration; classify by medication type. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Typically requires headache on at least 15 days/month and overuse for more than three months; thresholds vary by drug class. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 58,
+    "name": "Meningioma",
+    "overview": "**Meningioma** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Usually dural-based neoplasm arising from meningothelial cells; often slow-growing but behavior varies. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess MRI (detailed magnetic scan) (detailed magnetic scan) appearance, growth, symptoms and specialist evaluation. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Imaging suggests but cannot always establish histologic grade. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 59,
+    "name": "meningitis",
+    "overview": "**meningitis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Inflammation of protective membranes around the brain and spinal cord, often infectious, causing headache, fever, neck stiffness and sometimes altered consciousness. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgent assessment; blood cultures and a procedure that takes a small sample of fluid from the lower back for testing when safe, with prompt empiric therapy if bacterial meningitis suspected. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Absence of neck stiffness does not exclude meningitis; bacterial meningitis is an emergency. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 60,
+    "name": "migraine",
+    "overview": "**migraine** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Primary headache disorder featuring recurrent attacks, often with nausea and light or sound sensitivity. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess happening in a similar way each time attacks, frequency, aura and secondary-headache red flags. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not every headache with nausea is migraine; sudden new thunderclap headache needs urgent evaluation. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 61,
+    "name": "Migraine aura",
+    "overview": "**Migraine aura** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Fully reversible affecting a particular area neurological symptoms, commonly visual, evolving gradually and often preceding migraine headache. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Clarify gradual spread, sequence, duration and stroke/seizure mimics. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Typical aura commonly lasts 5–60 minutes per individual symptom; sudden negative deficits suggest TIA (transient ischemic attack, a temporary episode of stroke-like symptoms) (transient ischemic attack, a temporary episode of stroke-like symptoms)/stroke. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 62,
+    "name": "MOGAD",
+    "overview": "**MOGAD** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Myelin oligodendrocyte glycoprotein antibody-associated disease, inflammatory CNS damage to the protective insulation around nerve fibers causing optic neuritis, myelitis or brain inflammation. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess MRI (detailed magnetic scan) (detailed magnetic scan), phenotype, serum MOG-IgG by validated cell-based assay and mimics. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Positive antibodies without compatible syndrome may be misleading; distinct from multiple sclerosis and AQP4-NMOSD. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 63,
+    "name": "mood disorder",
+    "overview": "**mood disorder** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Broad clinical category of disorders characterized by pathological changes in mood and associated function. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess depression, a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning/a noticeable period of increased energy or mood that is less severe than full a mood episode with abnormally elevated or irritable mood and increased energy that markedly affects functioning, duration, difficulty managing everyday activities, substances and medical causes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not a specific diagnosis; classify depressive versus bipolar syndromes appropriately. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 64,
+    "name": "mood disorder with psychotic features",
+    "overview": "**mood disorder with psychotic features** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Descriptive term for mood episodes accompanied by strongly held beliefs that remain despite compelling evidence against them or seeing, hearing, or sensing something without an external source. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess episode timing, mood severity and whether psychosis occurs outside mood episodes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Formal diagnosis requires identifying the underlying mood disorder and episode. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 65,
+    "name": "MS",
+    "overview": "**MS** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Multiple sclerosis: immune-mediated CNS involving damage to the protective insulation around nerve fibers disease with lesions disseminated in space and time or equivalent criteria. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess objective neurological attacks, MRI (detailed magnetic scan) (detailed magnetic scan) brain/spine, CSF (fluid around the brain and spinal cord) (fluid around the brain and spinal cord) where appropriate and exclusion of mimics. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A not unique to one diagnosis white-matter MRI (detailed magnetic scan) (detailed magnetic scan) finding alone is not MS. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 66,
+    "name": "MSA",
+    "overview": "**MSA** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Multiple system atrophy, gradually worsening a disease involving abnormal accumulation of a protein called alpha-synuclein causing automatic body-function failure with parkinsonian and/or cerebellar features. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess orthostatic blood pressure, urinary symptoms, gait, movement-related signs and specialist imaging. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Early prominent automatic body-function dysfunction and rapid progression can distinguish it from typical Parkinson disease. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 67,
+    "name": "Multifocal motor neuropathy",
+    "overview": "**Multifocal motor neuropathy** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Immune-mediated peripheral movement-related neuropathy producing stronger on one side than the other distal weakness without significant sensation-related loss. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess distribution, nerve conduction block and other movement-related neuron disease mimics. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Treatable disorder; distinguish from ALS (amyotrophic lateral sclerosis) (amyotrophic lateral sclerosis), which typically has upper movement-related neuron signs. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 68,
+    "name": "myasthenia",
+    "overview": "**myasthenia** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Usually shorthand for myasthenia gravis, autoimmune neuromuscular junction disorder causing fatigable weakness. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess fluctuating ocular/bulbar/limb weakness, antibodies and electrophysiology. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Breathing or swallowing weakness may indicate myasthenic crisis and requires emergency care. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 69,
+    "name": "night eating syndrome",
+    "overview": "**night eating syndrome** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Recurrent evening/night food intake with awareness and distress, often associated with sleep and mood difficulties. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess timing, awareness, intake, sleep pattern and other eating disorders. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Diagnostic classification differs across systems; distinguish from sleep-related eating disorder with reduced awareness. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 70,
+    "name": "NMOSD",
+    "overview": "**NMOSD** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Neuromyelitis optica spectrum disorder, inflammatory CNS disease often associated with aquaporin-4 antibodies. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess severe optic neuritis, longitudinal myelitis, area postrema symptoms, MRI (detailed magnetic scan) (detailed magnetic scan) and serum AQP4-IgG. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Treatment strategies differ from MS; certain MS therapies can worsen NMOSD. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 71,
+    "name": "NPH",
+    "overview": "**NPH** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Normal pressure hydrocephalus: potentially treatable syndrome of gait disturbance, thinking-related difficulty managing everyday activities and urinary symptoms with ventriculomegaly. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess gait, MRI (detailed magnetic scan) (detailed magnetic scan)/CT (X-ray scan) (X-ray scan) and specialist CSF (fluid around the brain and spinal cord) (fluid around the brain and spinal cord) drainage testing when appropriate. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Gait difficulty managing everyday activities often predominates; ventriculomegaly alone does not prove NPH. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 72,
+    "name": "Obstructive sleep apnea",
+    "overview": "**Obstructive sleep apnea** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Repeated upper-airway collapse during sleep causing disrupted breathing and sleep fragmentation. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess snoring, witnessed apneas, daytime symptoms and objective sleep testing. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Can contribute to unusual tiredness or reduced energy and thinking abilities, including memory, attention, and planning problems; severity is established by sleep study, not symptoms alone. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 73,
+    "name": "occipital seizure",
+    "overview": "**occipital seizure** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: affecting a particular area seizure arising from occipital cortex, often with brief happening in a similar way each time visual phenomena. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Characterize sudden onset, brief duration, EEG (recording of electrical activity in the brain) (recording of electrical activity in the brain) and imaging as appropriate. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Visual migraine aura usually develops more gradually and lasts longer. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 74,
+    "name": "OCPD",
+    "overview": "**OCPD** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Obsessive-compulsive personality disorder, enduring rigidity, perfectionism and need for control impairing functioning. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess present across many situations pattern from early adulthood, context and impact on relationships/work. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Unlike OCD (obsessive-compulsive disorder) (obsessive-compulsive disorder), OCPD is not defined by intrusive obsessions and compulsions. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 75,
+    "name": "other substance use disorder",
+    "overview": "**other substance use disorder** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: A substance use disorder involving a substance other than the specific one under discussion. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Identify substance, reduced control, risky use, social difficulty managing everyday activities and physiological criteria where applicable. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not all substance exposure or intoxication meets criteria for a substance use disorder. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 76,
+    "name": "Panic attacks",
+    "overview": "**Panic attacks** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Abrupt surges of intense fear or discomfort with automatic body-function and thinking-related symptoms. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess onset, peak, recurrence, triggers, cardiac/thyroid causes and substance use. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Panic attacks are a specifier/symptom phenomenon and can occur outside panic disorder. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 77,
+    "name": "Parkinson disease dementia",
+    "overview": "**Parkinson disease dementia** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Dementia developing in the setting of established Parkinson disease, often with executive, visuospatial and attention deficits. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Review timeline of parkinsonism and dementia, thinking-related function, seeing, hearing, or sensing something without an external source and medications. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? clinical one-year timing convention helps distinguish from dementia with Lewy bodies. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 78,
+    "name": "peripheral neuropathy",
+    "overview": "**peripheral neuropathy** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Dysfunction of peripheral nerves causing numbness, pain, weakness or automatic body-function symptoms. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess distribution, reflexes, diabetes, B12, toxins and nerve conduction studies when indicated. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A syndrome with many causes; distinguish polyneuropathy from affecting a particular area mononeuropathy and radiculopathy. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 79,
+    "name": "Pituitary adenoma",
+    "overview": "**Pituitary adenoma** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Pituitary neuroendocrine tumor, sometimes hormone-secreting or causing visual and endocrine effects. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Evaluate pituitary hormone axes, visual fields when indicated and pituitary MRI (detailed magnetic scan) (detailed magnetic scan). A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Incidental lesions require different assessment from symptomatic hormone excess or compressive tumors. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 80,
+    "name": "Primary CNS lymphoma",
+    "overview": "**Primary CNS lymphoma** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Lymphoma primarily arising in brain, spinal cord, eyes or protective membranes around the brain and spinal cord without systemic origin at diagnosis. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess MRI (detailed magnetic scan) (detailed magnetic scan), immune status, ocular involvement and specialist tissue diagnosis. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Corticosteroids before biopsy can obscure diagnosis in some cases; coordinate with specialists. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 81,
+    "name": "Primary psychiatric disorder",
+    "overview": "**Primary psychiatric disorder** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Broad description for mental-health illness not primarily caused by a medical condition or substance. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Evaluate longitudinal symptoms, medical causes, substance exposure and functional change. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A category, not a definitive diagnosis; avoid assuming symptoms are mental-health without assessment. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 82,
+    "name": "Primary psychosis",
+    "overview": "**Primary psychosis** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: psychotic syndrome not attributable to a substance, medical illness or mood disorder alone. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess strongly held beliefs that remain despite compelling evidence against them, seeing, hearing, or sensing something without an external source, disorganization, duration, functioning and alternatives. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? An umbrella term; schizophrenia, delusional disorder and related disorders require separate criteria. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 83,
+    "name": "PSP",
+    "overview": "**PSP** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: gradually worsening supranuclear palsy, unusual parkinsonian gradual damage or loss of nerve cells often involving falls, eye-movement abnormalities and axial rigidity. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess vertical saccades/gaze, postural instability, thinking abilities, including memory, attention, and planning and specialist imaging. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Early backward falls and vertical gaze dysfunction may distinguish from Parkinson disease. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 84,
+    "name": "psychosis",
+    "overview": "**psychosis** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Syndrome involving reduced reality testing such as strongly held beliefs that remain despite compelling evidence against them or seeing, hearing, or sensing something without an external source. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess safety, onset, mental state, substances, delirium, mood episodes and neurological causes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A symptom syndrome, not synonymous with schizophrenia. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 85,
+    "name": "psychotic disorder",
+    "overview": "**psychotic disorder** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Diagnostic family involving clinically significant psychotic phenomena. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Characterize symptom pattern, duration, functioning, mood relationship and etiologies. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Includes primary, substance-induced and medical-condition-related disorders; not one disease. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 86,
+    "name": "PTSD",
+    "overview": "**PTSD** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Posttraumatic stress disorder after exposure to qualifying trauma with intrusion, avoidance, negative thinking abilities, including memory, attention, and planning/mood changes and arousal symptoms. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess trauma exposure, symptom clusters, duration, difficulty managing everyday activities and a sense of disconnection from memories, identity, surroundings, or experience. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? DSM-5-TR symptoms persist longer than one month; not all post-trauma distress meets PTSD (post-traumatic stress disorder) (post-traumatic stress disorder) criteria. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 87,
+    "name": "pure autonomic failure",
+    "overview": "**pure autonomic failure** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: associated with gradual damage to nerve cells automatic body-function disorder causing neurogenic orthostatic hypotension without prominent initial movement-related features. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess standing blood pressure, automatic body-function testing, medication causes and follow-up for evolving a disease involving abnormal accumulation of a protein called alpha-synuclein. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Distinguish from dehydration, drug-related hypotension and multiple system atrophy. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 88,
+    "name": "Ramsay Hunt syndrome",
+    "overview": "**Ramsay Hunt syndrome** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Varicella-zoster reactivation involving facial nerve, often causing painful ear vesicles and facial weakness. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess facial nerve, ear/oral lesions, hearing and vestibular symptoms. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Can occur without visible rash; prompt treatment and eye protection are important. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 89,
+    "name": "RCVS",
+    "overview": "**RCVS** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Reversible cerebral vasoconstriction syndrome, happening in episodes rather than continuously cerebral arterial narrowing often causing recurrent thunderclap headaches. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgent imaging and vascular evaluation; repeat imaging may be needed. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Subarachnoid bleeding and other dangerous causes must be excluded first. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 90,
+    "name": "seizure with Todd paresis",
+    "overview": "**seizure with Todd paresis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Transient affecting a particular area weakness following an epileptic seizure. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess witnessed seizure, weakness duration, neurological exam, EEG (recording of electrical activity in the brain) (recording of electrical activity in the brain) and imaging when indicated. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Postictal weakness can mimic stroke; acute affecting a particular area weakness still needs emergency stroke evaluation. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 91,
+    "name": "seizures",
+    "overview": "**seizures** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Transient episodes due to abnormal excessive neuronal activity; manifestations depend on involved networks. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess the detailed pattern of symptoms during an episode, provoking factors, witness history, EEG (recording of electrical activity in the brain) (recording of electrical activity in the brain) and brain imaging when appropriate. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Seizures can be acute symptomatic; having a seizure is not identical to having epilepsy. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 92,
+    "name": "Separation anxiety disorder",
+    "overview": "**Separation anxiety disorder** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Excessive developmentally inappropriate fear about separation from attachment figures causing difficulty managing everyday activities. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess duration, developmental stage, school/work avoidance and other anxiety disorders. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? DSM-5-TR duration thresholds differ for children and adults. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 93,
+    "name": "Sleep deprivation",
+    "overview": "**Sleep deprivation** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Insufficient sleep duration or quality relative to physiological need. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess sleep opportunity, schedule, medications, mood and sleep disorders. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not a specific disease; can worsen attention, mood and seizure susceptibility. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 94,
+    "name": "sleep disorder",
+    "overview": "**sleep disorder** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Broad group of disorders affecting sleep initiation, maintenance, breathing, timing or behavior. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Characterize symptoms, schedule, daytime difficulty managing everyday activities and targeted sleep testing. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? difficulty sleeping, sleep apnea, parasomnias and circadian disorders require different evaluations. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 95,
+    "name": "social anxiety",
+    "overview": "**social anxiety** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Fear of negative evaluation in social situations, potentially normal or part of social anxiety disorder. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess triggers, avoidance, persistence and difficulty managing everyday activities. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Social anxiety disorder requires more than occasional shyness or nervousness. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 96,
+    "name": "specific phobia",
+    "overview": "**specific phobia** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Marked, ongoing fear of a particular object or situation, causing avoidance or distress out of proportion to actual danger. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess fear trigger, duration, difficulty managing everyday activities and other possible explanations for the symptoms. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? DSM-5-TR usually requires persistence for at least six months. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 97,
+    "name": "Spinal cord compression",
+    "overview": "**Spinal cord compression** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Pressure on spinal cord producing weakness, sensation-related changes, gait dysfunction and possible bladder/bowel disturbance. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgently assess neurological level, sphincter symptoms and MRI (detailed magnetic scan) (detailed magnetic scan) when suspected. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? gradually worsening weakness, saddle symptoms or bladder dysfunction require emergency evaluation. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 98,
+    "name": "spinal pathology",
+    "overview": "**spinal pathology** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Broad label for structural, inflammatory, vascular, neoplastic or degenerative spinal disease. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Localize spinal versus nerve-root findings; evaluate red flags and targeted imaging. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not a single diagnosis; cord compression is a critical cause to exclude. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 99,
+    "name": "Stereotypies",
+    "overview": "**Stereotypies** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Repetitive, patterned, seemingly purposeless movements often beginning in childhood. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess onset, triggers, suppressibility, developmental context and difficulty managing everyday activities. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? May occur in typical development or brain-development disorders; differ from tics and seizures. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 100,
+    "name": "Stimulant-induced mania",
+    "overview": "**Stimulant-induced mania** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: related to a severe episode of unusually high or irritable mood and energy symptoms temporally related to stimulant exposure or intoxication. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Review substances, dose, timing, persistence after cessation and past independent mood episodes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Distinguish substance-induced syndrome from bipolar disorder; urgent assessment if severe agitation or psychosis. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 101,
+    "name": "stroke",
+    "overview": "**stroke** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Sudden brain injury due to interrupted blood flow or bleeding. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgent stroke assessment, last-known-well time and a scan of the brain or nervous system. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? An emergency even when symptoms improve; ischemic and related to bleeding stroke require different treatment. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 102,
+    "name": "Substance use disorder",
+    "overview": "**Substance use disorder** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Problematic pattern of substance use causing clinically significant difficulty managing everyday activities or distress. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess reduced control, risky use, social effects, tolerance/withdrawal when relevant and severity. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Physical dependence alone is not necessarily a substance use disorder. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 103,
+    "name": "substance-induced mood symptoms",
+    "overview": "**substance-induced mood symptoms** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Depressive or related to a severe episode of unusually high or irritable mood and energy symptoms attributable to intoxication, withdrawal or medication exposure. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess timing, pharmacology, persistence and independent mood episodes. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Temporal association alone may not establish causation. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 104,
+    "name": "substance-induced psychosis",
+    "overview": "**substance-induced psychosis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: seeing, hearing, or sensing something without an external source or strongly held beliefs that remain despite compelling evidence against them associated with substance intoxication, withdrawal or medication effects. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess toxicology context, timeline, delirium, safety and medical mimics. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Symptoms that persist beyond expected substance effects may require evaluation for primary psychosis. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 105,
+    "name": "substance-induced psychotic disorder",
+    "overview": "**substance-induced psychotic disorder** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Formal diagnostic category for prominent psychosis caused by substance or medication exposure. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Establish causative exposure, timing, exclusion of delirium and independent psychotic disorders. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not every intoxication-related perceptual change meets disorder criteria. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 106,
+    "name": "substance-related amnesia",
+    "overview": "**substance-related amnesia** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Memory difficulty managing everyday activities associated with intoxication, withdrawal or long-term neurotoxic effects. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess substance history, nutritional deficiency, neurological causes and thinking-related pattern. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Thiamine deficiency and Wernicke–Korsakoff syndrome are important in alcohol-related cases. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 107,
+    "name": "syncope",
+    "overview": "**syncope** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Transient loss of consciousness due to brief global cerebral hypoperfusion, usually with rapid recovery. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess posture, prodrome, ECG, orthostatic vitals, exertional events and cardiac risk. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Can resemble seizure; exertional syncope or abnormal ECG needs urgent evaluation. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 108,
+    "name": "Thyroid eye disease",
+    "overview": "**Thyroid eye disease** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: autoimmune orbital inflammation often associated with Graves disease, causing proptosis, diplopia and eye irritation. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess vision, color vision, eye movements, cornea, thyroid function and orbital imaging when needed. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Vision-threatening optic neuropathy or corneal exposure needs urgent specialist care. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 109,
+    "name": "TIA",
+    "overview": "**TIA** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Transient ischemic attack: temporary affecting a particular area neurological dysfunction caused by ischemia without acute infarction. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Urgent stroke/TIA (transient ischemic attack, a temporary episode of stroke-like symptoms) (transient ischemic attack, a temporary episode of stroke-like symptoms) assessment, vascular and cardiac workup and brain imaging. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? A warning event with early stroke risk; resolution of symptoms does not make it harmless. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 110,
+    "name": "tick paralysis",
+    "overview": "**tick paralysis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: acute ascending flaccid weakness caused by neurotoxin from an attached tick. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Examine skin and scalp for ticks; assess breathing, reflexes and differential. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Removal of the tick can reverse symptoms; respiratory failure is possible. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 111,
+    "name": "toxic-metabolic causes",
+    "overview": "**toxic-metabolic causes** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Broad differential category for neurological or changes in mental health, thinking, or behavior due to toxins, drugs or systemic metabolic derangements. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess medication/exposure history, glucose, electrolytes, renal/hepatic function and infection when relevant. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Not a specific diagnosis; identify the responsible process. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 112,
+    "name": "toxic-metabolic encephalopathy",
+    "overview": "**toxic-metabolic encephalopathy** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Diffuse brain dysfunction due to systemic metabolic abnormalities, organ failure, drugs or toxins. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess mental status, glucose, electrolytes, renal/liver tests, oxygenation and medication exposures. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Often causes global inattention and fluctuating thinking abilities, including memory, attention, and planning; affecting a particular area signs suggest additional pathology. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 113,
+    "name": "Transient global amnesia",
+    "overview": "**Transient global amnesia** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Abrupt temporary inability to form new memories with preserved identity and other neurological functions. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess witnessed repetitive questioning, duration, affecting a particular area deficits, seizure and vascular alternatives. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Typically resolves within 24 hours; unusual presentations require urgent evaluation. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 114,
+    "name": "trigeminal neuralgia",
+    "overview": "**trigeminal neuralgia** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Brief recurrent electric-shock facial pain in trigeminal distribution, often triggered by innocuous stimuli. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess pain distribution, sensation-related exam, triggers and MRI (detailed magnetic scan) (detailed magnetic scan) when indicated. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Continuous numbness or other cranial deficits suggest secondary causes. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 115,
+    "name": "ulnar neuropathy",
+    "overview": "**ulnar neuropathy** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Entrapment or injury of ulnar nerve causing numbness in ring/small fingers and intrinsic hand weakness. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess elbow/wrist compression, movement-related exam and nerve conduction studies when indicated. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? Distinguish from C8/T1 radiculopathy and generalized neuropathy. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 116,
+    "name": "vestibular injury",
+    "overview": "**vestibular injury** describes a symptom or clinical finding, rather than a complete diagnosis by itself. Several different illnesses can produce the same finding. What the medical summary means in more detail: Damage or dysfunction of peripheral or central balance pathways causing vertigo or imbalance. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess timing, triggers, hearing, eye movements and neurological red flags. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? acute continuous vertigo with central signs may represent posterior circulation stroke. This distinction matters because different causes can need very different levels of urgency and treatment."
+  },
+  {
+    "id": 117,
+    "name": "Viral meningitis",
+    "overview": "**Viral meningitis** is included here as an encyclopedia reference. The goal is to explain the term and how clinicians approach it, not to suggest that everyone with similar symptoms has this condition. What the medical summary means in more detail: Inflammation of protective membranes around the brain and spinal cord caused by a virus, often producing fever, headache and neck stiffness. This description may represent a typical pattern, not every possible presentation.",
+    "assessment": "How would a healthcare professional evaluate this possibility? The assessment may involve the following: Assess illness severity, CSF (fluid around the brain and spinal cord) (fluid around the brain and spinal cord) when indicated and exclude bacterial meningitis or brain inflammation. A clinician considers which symptoms are present, how they have changed, and which other explanations need to be checked. The right investigations depend on the situation.",
+    "distinction": "What makes this term different from similar conditions, or what is important not to assume? clinical features alone may not safely distinguish viral from bacterial meningitis. This distinction matters because different causes can need very different levels of urgency and treatment."
+  }
+]

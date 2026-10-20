@@ -1,0 +1,1850 @@
+[
+  {
+    "case_id": 1,
+    "opening": "I keep getting these awful headaches. Sometimes I see shimmering lights before the pain starts.",
+    "questions": [
+      [
+        "What do you see before the headache starts?",
+        "It starts as a tiny flickering zigzag. It spreads slowly across my vision, then fades away after about twenty-five minutes."
+      ],
+      [
+        "What is the headache like afterward?",
+        "Usually one side of my head throbs. I feel sick and even normal light bothers me."
+      ],
+      [
+        "Has this happened before?",
+        "Yes, I have had similar episodes for years. They follow more or less the same sequence."
+      ],
+      [
+        "Does the visual disturbance arrive all at once?",
+        "No, it builds up over several minutes rather than appearing suddenly."
+      ]
+    ]
+  },
+  {
+    "case_id": 2,
+    "opening": "By the end of a long day, it feels like someone has tightened a band around my head.",
+    "questions": [
+      [
+        "Where exactly do you feel the pain?",
+        "It is on both sides, more like a tight band than a pounding pain."
+      ],
+      [
+        "When do you tend to notice it?",
+        "Mostly toward the end of long working days."
+      ],
+      [
+        "Does being active make it worse?",
+        "Not particularly. I can usually keep moving around, although it is unpleasant."
+      ],
+      [
+        "Do you also vomit or see flashing lights beforehand?",
+        "No, neither of those happens with these headaches."
+      ]
+    ]
+  },
+  {
+    "case_id": 3,
+    "opening": "Yesterday I noticed the right side of my face was not moving properly. I cannot even close that eye all the way.",
+    "questions": [
+      [
+        "What did you notice when you looked in the mirror?",
+        "The right side of my mouth would not move properly, and I could not shut my right eye all the way."
+      ],
+      [
+        "How quickly did it happen?",
+        "It developed over about eighteen hours."
+      ],
+      [
+        "Can you still raise your eyebrow on that side?",
+        "Not normally. The whole right side of my face feels weak."
+      ],
+      [
+        "Have your arm or speech been affected?",
+        "No, my arms feel normal and I have not noticed trouble speaking."
+      ]
+    ]
+  },
+  {
+    "case_id": 4,
+    "opening": "My hand keeps going numb at night, especially these fingers. I wake up having to shake it out.",
+    "questions": [
+      [
+        "Which fingers feel strange?",
+        "My thumb, index finger and middle finger go tingly."
+      ],
+      [
+        "Is it worse at any particular time?",
+        "It often wakes me up at night."
+      ],
+      [
+        "Does anything make it better?",
+        "Shaking my hand seems to settle it for a while."
+      ],
+      [
+        "Do you mainly feel it in the little finger?",
+        "No, that is not where I notice it."
+      ]
+    ]
+  },
+  {
+    "case_id": 5,
+    "opening": "I have felt really low for weeks. Things I used to enjoy just do not interest me anymore.",
+    "questions": [
+      [
+        "How has your mood been recently?",
+        "For about seven weeks I have felt low almost every day. Things I used to enjoy don't feel enjoyable."
+      ],
+      [
+        "What has changed about your sleep and concentration?",
+        "I have been sleeping badly, and it is really difficult to stay focused at work."
+      ],
+      [
+        "What thoughts go through your mind about yourself?",
+        "I keep feeling guilty, even about things that are not really my fault."
+      ],
+      [
+        "Have you ever had periods when you needed very little sleep and felt unusually energized?",
+        "No, I have not experienced anything like that."
+      ]
+    ]
+  },
+  {
+    "case_id": 6,
+    "opening": "Out of nowhere my heart starts racing and I feel sure something terrible is happening.",
+    "questions": [
+      [
+        "What happens when an attack starts?",
+        "Out of nowhere my heart starts racing, I shake, and I genuinely think I might die."
+      ],
+      [
+        "Are the attacks tied to one particular place?",
+        "No. That is part of what makes them frightening; I can't predict when one will come."
+      ],
+      [
+        "How do you feel between attacks?",
+        "I spend a lot of time worrying about when the next one will happen."
+      ],
+      [
+        "How long has that worry been going on?",
+        "For around two months now."
+      ]
+    ]
+  },
+  {
+    "case_id": 7,
+    "opening": "My mind is always running through everything that could go wrong. I cannot switch it off.",
+    "questions": [
+      [
+        "What do you find yourself worrying about?",
+        "Everything: money, work, family. I jump from one problem to another."
+      ],
+      [
+        "Can you put those worries aside?",
+        "I try, but my mind just won't let them go."
+      ],
+      [
+        "How long has this been happening?",
+        "Most days for around nine months."
+      ],
+      [
+        "Does the worrying affect you physically?",
+        "I am tense and restless, and it is difficult to sleep."
+      ]
+    ]
+  },
+  {
+    "case_id": 8,
+    "opening": "I have become noticeably slower, and one of my hands shakes when I am sitting still.",
+    "questions": [
+      [
+        "What first made you think something had changed?",
+        "One of my hands began shaking when it was resting. It came on gradually."
+      ],
+      [
+        "Has anything changed about your writing?",
+        "My handwriting has become noticeably smaller."
+      ],
+      [
+        "What about walking?",
+        "I have noticed that one arm does not swing as much when I walk."
+      ],
+      [
+        "Did all of these changes happen suddenly?",
+        "No, it has been gradual."
+      ]
+    ]
+  },
+  {
+    "case_id": 9,
+    "opening": "My hands shake whenever I try to hold a cup or do something precise.",
+    "questions": [
+      [
+        "When do your hands shake most?",
+        "When I hold a cup or try to use my hands, not mainly when they are sitting still."
+      ],
+      [
+        "Is it the same on both sides?",
+        "Yes, both hands are involved."
+      ],
+      [
+        "How long have you noticed this?",
+        "Around eight years."
+      ],
+      [
+        "Have you also become unusually slow or stiff?",
+        "No, I haven't noticed anything like that. Stress definitely makes the shaking worse, though."
+      ]
+    ]
+  },
+  {
+    "case_id": 10,
+    "opening": "My family says I keep asking the same questions. I am finding everyday things harder to remember.",
+    "questions": [
+      [
+        "What sorts of things are becoming harder to remember?",
+        "I ask the same questions again and misplace things, even after someone has explained where they are."
+      ],
+      [
+        "How long has this been changing?",
+        "It has been getting gradually worse over about three years."
+      ],
+      [
+        "Are everyday tasks affected?",
+        "I now need help keeping track of bills and finances."
+      ],
+      [
+        "Did this begin overnight?",
+        "No. It has been a slow change rather than one sudden event."
+      ]
+    ]
+  },
+  {
+    "case_id": 11,
+    "opening": "Ever since the strokes, thinking things through takes me longer, and some days feel like a step backward.",
+    "questions": [
+      [
+        "Did the thinking problems begin all at once?",
+        "They seemed to worsen in steps, particularly after my strokes."
+      ],
+      [
+        "What is most difficult day to day?",
+        "Planning and organizing things is harder than remembering a particular conversation."
+      ],
+      [
+        "Do you have any cardiovascular health problems?",
+        "I have high blood pressure and have had strokes before."
+      ],
+      [
+        "Has there been a steady decline without interruptions?",
+        "Not really. There have been clearer drops in ability at different times."
+      ]
+    ]
+  },
+  {
+    "case_id": 12,
+    "opening": "Some days I seem quite clear, but other days I get confused. I have even seen people who were not there.",
+    "questions": [
+      [
+        "Are the difficulties the same throughout the day?",
+        "Not at all. Sometimes I am quite alert, and other times I seem much more confused."
+      ],
+      [
+        "Have you noticed anything unusual in your surroundings?",
+        "I sometimes see people who aren't actually there. They look surprisingly detailed."
+      ],
+      [
+        "What happens while you are asleep?",
+        "My family says I move around and act out dreams."
+      ],
+      [
+        "Was memory loss the first big concern?",
+        "No, the changes in alertness and these strange experiences were noticeable early on."
+      ]
+    ]
+  },
+  {
+    "case_id": 13,
+    "opening": "My family says I am acting like a different person and making decisions I would never have made before.",
+    "questions": [
+      [
+        "Have the changes mostly been about forgetting things?",
+        "Not really. My family says I behave differently and no longer notice when I hurt someone's feelings."
+      ],
+      [
+        "How has your motivation changed?",
+        "I have become much more indifferent about things I used to care about."
+      ],
+      [
+        "Have your eating habits changed?",
+        "Apparently I stick rigidly to particular foods and routines now."
+      ],
+      [
+        "When did your family start noticing?",
+        "These changes have developed over roughly two years."
+      ]
+    ]
+  },
+  {
+    "case_id": 14,
+    "opening": "My vision and balance have been strange at different times. The symptoms seem to come and go.",
+    "questions": [
+      [
+        "Have you had an earlier episode like this?",
+        "About nine months ago I lost vision in one eye and it hurt. It eventually improved."
+      ],
+      [
+        "What has happened more recently?",
+        "Now I am having problems with sensation and walking."
+      ],
+      [
+        "Did the visual problem and walking problem start together?",
+        "No, they were separate episodes months apart."
+      ],
+      [
+        "Has the new trouble come on instantly?",
+        "No, it has developed over days rather than within a few seconds."
+      ]
+    ]
+  },
+  {
+    "case_id": 15,
+    "opening": "My eyelids get droopy and my muscles tire out, especially later in the day.",
+    "questions": [
+      [
+        "When do your eyelids start drooping?",
+        "They are usually better earlier in the day and droop more when I am tired."
+      ],
+      [
+        "What happens to your vision?",
+        "I sometimes see double, especially after I have been using my eyes a lot."
+      ],
+      [
+        "Does resting change anything?",
+        "Yes. Taking a break usually helps."
+      ],
+      [
+        "Is the weakness exactly the same all day?",
+        "No, it comes and goes depending on how much I have been doing."
+      ]
+    ]
+  },
+  {
+    "case_id": 16,
+    "opening": "My feet started tingling, and now my legs feel weaker than they did a few days ago.",
+    "questions": [
+      [
+        "When did the weakness begin?",
+        "Over the last four days, and it has been getting worse."
+      ],
+      [
+        "What happened in the week before this?",
+        "I had a stomach bug with diarrhea about a week before the weakness started."
+      ],
+      [
+        "Where do you feel it?",
+        "It is on both sides, with weakness and tingling that have been spreading."
+      ],
+      [
+        "Are you finding it progressively harder to walk?",
+        "Yes. It is changing quickly, which is why I am worried."
+      ]
+    ]
+  },
+  {
+    "case_id": 17,
+    "opening": "Sometimes I get this intense feeling that I have lived the moment before, and then I lose track of what happened.",
+    "questions": [
+      [
+        "What is the very first thing you notice during an episode?",
+        "A sudden feeling of déjà vu, sometimes with a strange rising feeling in my stomach."
+      ],
+      [
+        "What does someone else notice?",
+        "I've been told I go blank for a while and make movements with my lips."
+      ],
+      [
+        "Can you remember everything afterward?",
+        "No, there is part of it I cannot recall."
+      ],
+      [
+        "How long is a typical episode?",
+        "Usually about a minute, and the episodes tend to follow the same pattern."
+      ]
+    ]
+  },
+  {
+    "case_id": 18,
+    "opening": "All of a sudden I could not move one side properly. Everything changed in a moment.",
+    "questions": [
+      [
+        "When was the patient last speaking and moving normally?",
+        "About forty-five minutes ago. Everything changed very suddenly."
+      ],
+      [
+        "What changed first?",
+        "They suddenly couldn't get the words out and the right arm became weak."
+      ],
+      [
+        "Has the weakness already completely passed?",
+        "No, the symptoms are still present."
+      ],
+      [
+        "Can this wait for a routine appointment?",
+        "No. This has just happened and the person needs emergency assessment now."
+      ]
+    ]
+  },
+  {
+    "case_id": 19,
+    "opening": "For a short while I could not speak properly, but then it seemed to go away.",
+    "questions": [
+      [
+        "How long did the language problem last?",
+        "About twelve minutes, then it completely cleared."
+      ],
+      [
+        "Did it begin gradually over several hours?",
+        "No, it was sudden."
+      ],
+      [
+        "Are you back to your usual self now?",
+        "Yes, but it was very frightening."
+      ],
+      [
+        "Do you have risk factors for circulation problems?",
+        "Yes, I do have vascular risk factors, which is why the episode worries me."
+      ]
+    ]
+  },
+  {
+    "case_id": 20,
+    "opening": "I hit my head, and since then I have felt foggy and not quite myself.",
+    "questions": [
+      [
+        "What happened just before the headache started?",
+        "I took a hit to the head while playing sport."
+      ],
+      [
+        "How have you felt since?",
+        "I have a headache and my thinking feels a little slower than usual."
+      ],
+      [
+        "Have you noticed weakness in one part of your body?",
+        "No, nothing like that."
+      ],
+      [
+        "Have the symptoms been getting rapidly worse?",
+        "No, so far there has been no worsening warning sign, but I know I still need assessment."
+      ]
+    ]
+  },
+  {
+    "case_id": 21,
+    "opening": "I know the thoughts do not make sense, but I cannot stop checking things.",
+    "questions": [
+      [
+        "What thought keeps bothering you?",
+        "I keep imagining that the stove is going to start a fire, even when I know I switched it off."
+      ],
+      [
+        "What do you do when that thought comes up?",
+        "I go back and check it, sometimes again and again."
+      ],
+      [
+        "How much time does it take?",
+        "Around two hours on some days. It is exhausting."
+      ],
+      [
+        "Does the checking feel completely reasonable to you?",
+        "No. I know it is excessive, but I still feel driven to do it."
+      ]
+    ]
+  },
+  {
+    "case_id": 22,
+    "opening": "Since what happened, I keep reliving it, and I avoid anything that reminds me.",
+    "questions": [
+      [
+        "What sorts of memories are troubling you?",
+        "Memories of the trauma keep pushing into my mind when I don't want them."
+      ],
+      [
+        "Do you try to avoid reminders?",
+        "Yes. I go out of my way to avoid things that bring it back."
+      ],
+      [
+        "How has this changed the way you feel day to day?",
+        "I am on edge a lot and my mood has changed. It affects my everyday life."
+      ],
+      [
+        "How long have these symptoms lasted?",
+        "About four months."
+      ]
+    ]
+  },
+  {
+    "case_id": 23,
+    "opening": "There have been times when I barely slept but felt incredibly energized and unstoppable.",
+    "questions": [
+      [
+        "How have you been sleeping lately?",
+        "Very little, but I still seem to have plenty of energy."
+      ],
+      [
+        "Has anyone noticed a change in the way you talk?",
+        "People keep telling me I talk much faster than usual."
+      ],
+      [
+        "Have you made any unusual decisions?",
+        "I have been spending money impulsively and it has caused serious problems."
+      ],
+      [
+        "How long has this unusually energized mood lasted?",
+        "About a week, and it is affecting my life a lot."
+      ]
+    ]
+  },
+  {
+    "case_id": 24,
+    "opening": "I get so anxious about being judged that I avoid speaking up or meeting people.",
+    "questions": [
+      [
+        "What situations make you most anxious?",
+        "Speaking up in class and being around other people who might judge me."
+      ],
+      [
+        "What are you worried they will think?",
+        "That I will embarrass myself or say something stupid."
+      ],
+      [
+        "What do you do to cope with it?",
+        "I avoid those situations whenever I can, even when it affects my studies."
+      ],
+      [
+        "Has this only been happening for a few weeks?",
+        "No, it has been going on for about two years."
+      ]
+    ]
+  },
+  {
+    "case_id": 25,
+    "opening": "I lose track of tasks all the time, even when I am trying very hard to concentrate.",
+    "questions": [
+      [
+        "When did you first have problems with attention?",
+        "Even in primary school I was losing things and forgetting what I was supposed to do."
+      ],
+      [
+        "Is it just an issue at school?",
+        "No. It happens at home too."
+      ],
+      [
+        "What tends to happen when you try to finish tasks?",
+        "I get distracted or lose track of the materials I need."
+      ],
+      [
+        "Has this caused real difficulties?",
+        "Yes, it has affected how I manage things in more than one setting."
+      ]
+    ]
+  },
+  {
+    "case_id": 26,
+    "opening": "I have been hearing things other people do not seem to hear, and it is frightening.",
+    "questions": [
+      [
+        "What has felt different lately?",
+        "I have felt watched and threatened, and sometimes I hear voices that other people don't hear."
+      ],
+      [
+        "What has your family noticed?",
+        "They say I have become harder to follow when I talk and that I have stopped functioning as I used to."
+      ],
+      [
+        "How long has this been going on?",
+        "For around eight months now."
+      ],
+      [
+        "Do these experiences only happen during a period of very high or very low mood?",
+        "No. There has not been a sustained mood episode that explains them."
+      ]
+    ]
+  },
+  {
+    "case_id": 27,
+    "opening": "After taking stimulants, I started feeling watched and hearing things.",
+    "questions": [
+      [
+        "Was there a change in your treatment before the symptoms started?",
+        "Yes. My prescribed stimulant dose was increased shortly before I began feeling watched."
+      ],
+      [
+        "What kinds of experiences are frightening you?",
+        "I have become convinced people are after me, even though others say there is no evidence."
+      ],
+      [
+        "Did you have episodes like this before the dose change?",
+        "No, I had not experienced this kind of problem before."
+      ],
+      [
+        "Did the symptoms start long before the stimulant was changed?",
+        "No, the timing was close to the dose increase."
+      ]
+    ]
+  },
+  {
+    "case_id": 28,
+    "opening": "I have had serious changes in my mood, but the unusual experiences have sometimes happened outside those episodes.",
+    "questions": [
+      [
+        "Do the unusual perceptions happen only when you are depressed?",
+        "No. I have heard things even when I was not experiencing a major mood episode."
+      ],
+      [
+        "Can you remember a period of psychotic symptoms without mood symptoms?",
+        "Yes, there was a stretch of about three weeks like that."
+      ],
+      [
+        "Have you also had serious depressive episodes?",
+        "Yes, and they have taken up much of the overall illness."
+      ],
+      [
+        "Has this been just one short episode?",
+        "No. It has been going on over years."
+      ]
+    ]
+  },
+  {
+    "case_id": 29,
+    "opening": "Everything became confusing very suddenly. My family says I am not acting like myself.",
+    "questions": [
+      [
+        "When did the confusion begin?",
+        "It came on recently, after an infection and some medication changes."
+      ],
+      [
+        "Is the person's alertness the same throughout the day?",
+        "No, it goes up and down quite a lot."
+      ],
+      [
+        "Was their thinking like this months ago?",
+        "No. This is a noticeable change from their usual state."
+      ],
+      [
+        "What other health problem happened around the same time?",
+        "There was a urinary infection, and the medicines were also adjusted."
+      ]
+    ]
+  },
+  {
+    "case_id": 30,
+    "opening": "I am walking differently, I have trouble holding my bladder, and my thinking has slowed down.",
+    "questions": [
+      [
+        "What has changed about the way you walk?",
+        "Starting to walk feels oddly difficult, as though my feet will not get going."
+      ],
+      [
+        "Have you noticed changes in thinking?",
+        "I feel slower in my thinking than before."
+      ],
+      [
+        "Any urinary symptoms?",
+        "Yes, I have more urgency than I used to."
+      ],
+      [
+        "How long has this combination been developing?",
+        "Roughly a year."
+      ]
+    ]
+  },
+  {
+    "case_id": 31,
+    "opening": "My muscles have been getting weaker, and I have started noticing twitching.",
+    "questions": [
+      [
+        "Which part of your body first felt weak?",
+        "It began in one hand, then I started noticing weakness in a leg as well."
+      ],
+      [
+        "How long has this been progressing?",
+        "For about ten months."
+      ],
+      [
+        "Do your hands or feet feel numb?",
+        "No, I haven't had the kind of tingling or numbness people ask me about."
+      ],
+      [
+        "Has this been an abrupt episode?",
+        "No, it has been steadily getting worse."
+      ]
+    ]
+  },
+  {
+    "case_id": 32,
+    "opening": "My hands feel clumsy and my walking is not as steady as it used to be.",
+    "questions": [
+      [
+        "What is difficult to do with your hands?",
+        "Small movements have become clumsy. Things that used to be easy take more effort."
+      ],
+      [
+        "How is your balance?",
+        "I feel unsteady when I walk."
+      ],
+      [
+        "Have you noticed anything in your neck?",
+        "It feels stiff as well."
+      ],
+      [
+        "How long has this developed?",
+        "It has crept up over months."
+      ]
+    ]
+  },
+  {
+    "case_id": 33,
+    "opening": "I have a terrible headache and fever, and my neck is so painful to move.",
+    "questions": [
+      [
+        "What symptoms developed first?",
+        "A severe headache and fever, and then my neck became stiff."
+      ],
+      [
+        "Does light bother you?",
+        "Yes, bright light is uncomfortable."
+      ],
+      [
+        "Is the person getting better or more unwell?",
+        "More unwell, and quite quickly."
+      ],
+      [
+        "Would you feel safe simply waiting at home?",
+        "No. I feel very ill and need urgent medical help."
+      ]
+    ]
+  },
+  {
+    "case_id": 34,
+    "opening": "I suddenly got the worst headache I have ever felt.",
+    "questions": [
+      [
+        "How quickly did the headache reach its worst?",
+        "Almost instantly. It was at full force within seconds."
+      ],
+      [
+        "What were you doing when it happened?",
+        "I was exercising."
+      ],
+      [
+        "What other symptoms followed?",
+        "I vomited and my neck hurts."
+      ],
+      [
+        "Does this feel like your usual headache pattern?",
+        "No. It was sudden and completely different."
+      ]
+    ]
+  },
+  {
+    "case_id": 35,
+    "opening": "I have been unsteady and confused, and people say my eyes are moving strangely.",
+    "questions": [
+      [
+        "Has eating been difficult lately?",
+        "Yes, I have hardly been eating properly and I have been vomiting."
+      ],
+      [
+        "Is alcohol part of the history?",
+        "Yes, there has been heavy alcohol use."
+      ],
+      [
+        "What has changed about your balance?",
+        "I am unusually unsteady when I try to walk."
+      ],
+      [
+        "Are you feeling mentally clear?",
+        "No, I have been confused recently."
+      ]
+    ]
+  },
+  {
+    "case_id": 36,
+    "opening": "My feet feel numb and my balance has been getting worse.",
+    "questions": [
+      [
+        "What do you notice in your feet?",
+        "I have had tingling for months."
+      ],
+      [
+        "Is walking harder in particular conditions?",
+        "Yes, especially in the dark when I cannot see where my feet are going."
+      ],
+      [
+        "Has anyone checked your sense of vibration or position?",
+        "I was told those sensations were reduced when I was examined."
+      ],
+      [
+        "Did this all happen in a single day?",
+        "No, it has developed gradually."
+      ]
+    ]
+  },
+  {
+    "case_id": 37,
+    "opening": "I am having real trouble moving, but the tests so far have not explained why.",
+    "questions": [
+      [
+        "What does the weakness feel like to you?",
+        "It is real and it gets in the way of what I am trying to do."
+      ],
+      [
+        "Does it always feel exactly the same?",
+        "No, it seems to change from one moment to another."
+      ],
+      [
+        "What happens during the examination?",
+        "The weakness behaves differently depending on how it is tested, which has confused me."
+      ],
+      [
+        "Does this mean you are pretending?",
+        "Absolutely not. I cannot simply choose to make the symptoms disappear."
+      ]
+    ]
+  },
+  {
+    "case_id": 38,
+    "opening": "My family says my behavior changed quickly, and I have had some very strange episodes.",
+    "questions": [
+      [
+        "What did your family first notice?",
+        "They say I was behaving very differently and seemed confused about things I would normally remember."
+      ],
+      [
+        "Has anything happened besides the changes in behavior?",
+        "Yes. There have been seizures and strange movements."
+      ],
+      [
+        "How quickly has this developed?",
+        "Over about two weeks."
+      ],
+      [
+        "Could this safely be treated as an ordinary psychiatric appointment?",
+        "No. The seizures and rapid change mean I need medical assessment urgently."
+      ]
+    ]
+  },
+  {
+    "case_id": 39,
+    "opening": "My eyesight became very poor and then I developed weakness and other nerve symptoms.",
+    "questions": [
+      [
+        "Have you had more than one episode of trouble seeing?",
+        "Yes, I've had severe episodes affecting my vision."
+      ],
+      [
+        "Have you also had problems with your legs or bladder?",
+        "Yes, I've had prolonged symptoms affecting my spinal cord and bladder control."
+      ],
+      [
+        "Did it all resolve after one brief episode?",
+        "No, there have been recurrent, significant attacks."
+      ],
+      [
+        "Are the eye symptoms mild and painless?",
+        "No, the episodes have been severe."
+      ]
+    ]
+  },
+  {
+    "case_id": 40,
+    "opening": "My memory and movements have deteriorated incredibly quickly.",
+    "questions": [
+      [
+        "How quickly have the thinking problems developed?",
+        "Over weeks to months, much faster than anyone expected."
+      ],
+      [
+        "How has walking changed?",
+        "I am much less coordinated."
+      ],
+      [
+        "Have there been unusual jerking movements?",
+        "Yes, sudden jerks that I cannot control."
+      ],
+      [
+        "Was the decline spread over many years?",
+        "No, it has been unusually rapid."
+      ]
+    ]
+  },
+  {
+    "case_id": 41,
+    "opening": "I keep falling, and looking up and down is becoming difficult.",
+    "questions": [
+      [
+        "What first brought you to attention?",
+        "I kept falling without an obvious reason."
+      ],
+      [
+        "Is turning your gaze downward difficult?",
+        "Yes, looking down has become much harder."
+      ],
+      [
+        "Do you feel stiff?",
+        "Especially through my trunk and neck."
+      ],
+      [
+        "Did the falls only begin very late?",
+        "No, they were among the early problems."
+      ]
+    ]
+  },
+  {
+    "case_id": 42,
+    "opening": "I have problems with balance and blood pressure, and my movements have slowed.",
+    "questions": [
+      [
+        "What happens when you stand up?",
+        "I become very lightheaded, and I've been told my blood pressure drops badly."
+      ],
+      [
+        "Have you noticed urinary changes?",
+        "Yes, those problems began quite early."
+      ],
+      [
+        "What about movement?",
+        "I have become slower and stiffer, and things have progressed quite rapidly."
+      ],
+      [
+        "Did the bladder and blood pressure problems appear only years later?",
+        "No, they were early features."
+      ]
+    ]
+  },
+  {
+    "case_id": 43,
+    "opening": "I cannot control some of these movements, and my family has noticed changes in my thinking.",
+    "questions": [
+      [
+        "What movements have changed?",
+        "My arms and legs sometimes make these jerky, dance-like movements that I can't fully control."
+      ],
+      [
+        "Have you noticed changes in thinking?",
+        "Planning and keeping track of things have become harder."
+      ],
+      [
+        "Does anyone in your family have a similar condition?",
+        "Yes, one of my parents has been affected."
+      ],
+      [
+        "Have your emotions or mood changed too?",
+        "Yes, I've noticed mood changes along with everything else."
+      ]
+    ]
+  },
+  {
+    "case_id": 44,
+    "opening": "I fall asleep without meaning to, even when I have had a full night in bed.",
+    "questions": [
+      [
+        "What happens during the daytime?",
+        "I suddenly get so sleepy that I struggle to stay awake, even when I am trying."
+      ],
+      [
+        "What happens when you laugh or feel strong emotions?",
+        "My knees sometimes buckle, but I stay aware of what is happening."
+      ],
+      [
+        "Have you had anything unusual around falling asleep or waking up?",
+        "Yes, sometimes I wake up and can't move for a moment."
+      ],
+      [
+        "Are these sleep episodes rare?",
+        "No, they're happening every day."
+      ]
+    ]
+  },
+  {
+    "case_id": 45,
+    "opening": "I have a new headache around my temples, and chewing sometimes makes my jaw ache.",
+    "questions": [
+      [
+        "Is this a headache you have had for years?",
+        "No, it is a new pain around one temple."
+      ],
+      [
+        "Does your scalp feel different?",
+        "It is tender to touch."
+      ],
+      [
+        "What happens when you chew?",
+        "My jaw starts aching when I chew for a while."
+      ],
+      [
+        "Have you noticed any change in vision?",
+        "Yes, it has blurred briefly. That really worries me."
+      ]
+    ]
+  },
+  {
+    "case_id": 46,
+    "opening": "I can still remember things, but I increasingly cannot find the meaning of ordinary words.",
+    "questions": [
+      [
+        "What happens when someone says a familiar word?",
+        "Sometimes I recognize the sound of the word but don't understand what it means anymore."
+      ],
+      [
+        "Is it hard to name objects?",
+        "Yes, even ordinary things that I know I've seen before."
+      ],
+      [
+        "Does your speech come out haltingly?",
+        "No, I can still speak fluently; finding the meaning is the problem."
+      ],
+      [
+        "Are your memories of recent events equally affected?",
+        "Not nearly as much, at least early on."
+      ]
+    ]
+  },
+  {
+    "case_id": 47,
+    "opening": "My relationships feel intense and unstable, and I am terrified people will leave me.",
+    "questions": [
+      [
+        "What tends to happen in close relationships?",
+        "I can feel extremely close to someone and then become terrified they're going to leave me."
+      ],
+      [
+        "How do you see yourself?",
+        "My sense of who I am seems to change depending on what is happening."
+      ],
+      [
+        "Have you made decisions you later regretted?",
+        "Yes, sometimes I act impulsively when I'm overwhelmed."
+      ],
+      [
+        "Is this a recent change after one difficult week?",
+        "No, these patterns have been with me since my teens and affect different parts of my life."
+      ]
+    ]
+  },
+  {
+    "case_id": 48,
+    "opening": "I am very afraid of gaining weight, and food has become something I constantly worry about.",
+    "questions": [
+      [
+        "What happens when you think about gaining weight?",
+        "The idea frightens me intensely, even when other people are worried about how little I eat."
+      ],
+      [
+        "Have you been limiting what you eat?",
+        "Yes, I restrict my food a lot."
+      ],
+      [
+        "How do you see your body?",
+        "The way I see my body doesn't seem to match what other people tell me."
+      ],
+      [
+        "Has this affected your physical health?",
+        "Yes, my weight is too low for what would be expected in my situation."
+      ]
+    ]
+  },
+  {
+    "case_id": 49,
+    "opening": "I make movements and sounds that I feel I have to let out, even when I try not to.",
+    "questions": [
+      [
+        "What movements have you noticed?",
+        "I make repeated movements I don't always feel I can stop."
+      ],
+      [
+        "Are there also sounds or noises?",
+        "Yes, I have vocal tics as well as movements."
+      ],
+      [
+        "When did this start?",
+        "When I was about eight years old."
+      ],
+      [
+        "Is it exactly the same every day?",
+        "No, the tics come and go in intensity, but they've been present for more than eighteen months."
+      ]
+    ]
+  },
+  {
+    "case_id": 50,
+    "opening": "I have these physical symptoms that worry me constantly, even after medical visits.",
+    "questions": [
+      [
+        "Do you feel that the physical pain is real?",
+        "Yes, very much so. It isn't something I'm imagining."
+      ],
+      [
+        "How much time do you spend thinking about your health?",
+        "An enormous amount. I keep checking and worrying about the symptoms."
+      ],
+      [
+        "Have the worries changed your routines?",
+        "They take up a lot of my time and energy."
+      ],
+      [
+        "Does this mean every symptom has a clear medical explanation already?",
+        "No. I know the cause is not completely clear, but the pain and distress are very real."
+      ]
+    ]
+  },
+  {
+    "case_id": 51,
+    "opening": "My headache has been getting worse, and now I have other neurological symptoms.",
+    "questions": [
+      [
+        "How has the headache been changing?",
+        "It has been getting worse over days rather than arriving as one sudden flash."
+      ],
+      [
+        "Has anything else happened recently?",
+        "I have had a new seizure."
+      ],
+      [
+        "Is there any relevant recent health history?",
+        "I was pregnant recently."
+      ],
+      [
+        "Has anyone noticed signs of raised pressure around the eyes?",
+        "At the examination they mentioned swelling at the back of my eyes."
+      ]
+    ]
+  },
+  {
+    "case_id": 52,
+    "opening": "I have been feeling unwell, and my movements and mood have changed.",
+    "questions": [
+      [
+        "What has changed about your movements?",
+        "I have a tremor and sometimes my muscles twist into awkward positions."
+      ],
+      [
+        "Have your mood or behavior changed?",
+        "Yes, people around me have noticed changes."
+      ],
+      [
+        "Has anything unusual shown up in blood tests?",
+        "I was told my liver tests were abnormal."
+      ],
+      [
+        "Is this only a problem with the liver?",
+        "No, the movement and psychological changes are also part of what brought me here."
+      ]
+    ]
+  },
+  {
+    "case_id": 53,
+    "opening": "I have felt down for such a long time that I can barely remember feeling different.",
+    "questions": [
+      [
+        "How long have you felt low?",
+        "For about four years, most days."
+      ],
+      [
+        "Do you have long periods when you feel completely fine?",
+        "No. I haven't had a break longer than a couple of months."
+      ],
+      [
+        "What does it feel like day to day?",
+        "I'm tired, hard on myself, and often expect the worst."
+      ],
+      [
+        "Has it affected your life?",
+        "Yes, it's more than just a gloomy mood now and then."
+      ]
+    ]
+  },
+  {
+    "case_id": 54,
+    "opening": "I have had deep depressive periods, but also times when I felt unusually energized.",
+    "questions": [
+      [
+        "What happens during the periods when your energy changes?",
+        "For about four days at a time I become much more energetic and social and need less sleep."
+      ],
+      [
+        "Have those periods been as disruptive as a full manic episode?",
+        "No, they've been noticeable changes, but not to that degree."
+      ],
+      [
+        "What happens at other times?",
+        "I've also had several significant depressive episodes."
+      ],
+      [
+        "Have you ever had a full episode of mania?",
+        "No, not according to the history I've described."
+      ]
+    ]
+  },
+  {
+    "case_id": 55,
+    "opening": "My mood seems to swing between being low and unusually upbeat, over and over.",
+    "questions": [
+      [
+        "Do your moods stay steady for long stretches?",
+        "Not really. I have repeated times when I'm a bit too energized and other times when I'm low."
+      ],
+      [
+        "How long has that been happening?",
+        "About three years."
+      ],
+      [
+        "Do these phases meet the threshold of full manic or major depressive episodes?",
+        "I've been told the individual phases fall short of that, even though the pattern affects me."
+      ],
+      [
+        "Have there been long symptom-free gaps?",
+        "No, not long ones."
+      ]
+    ]
+  },
+  {
+    "case_id": 56,
+    "opening": "I avoid places where I worry I could not escape or get help.",
+    "questions": [
+      [
+        "Which places feel especially hard to enter?",
+        "Trains, busy shops, crowds, queues, or even going outside alone."
+      ],
+      [
+        "What frightens you about those places?",
+        "I'm afraid I won't be able to get out or get help if I panic or feel unwell."
+      ],
+      [
+        "Do you avoid them?",
+        "Yes, sometimes I change my plans entirely."
+      ],
+      [
+        "How long has this been affecting your life?",
+        "About eight months."
+      ]
+    ]
+  },
+  {
+    "case_id": 57,
+    "opening": "I am scared I have a serious disease even when doctors cannot find one.",
+    "questions": [
+      [
+        "What are you most worried might be happening?",
+        "I'm afraid I have a serious disease, even when I don't have many actual symptoms."
+      ],
+      [
+        "What happens after a reassuring appointment?",
+        "I feel better briefly, but then the worry returns."
+      ],
+      [
+        "How long has this been taking over your thoughts?",
+        "Around ten months."
+      ],
+      [
+        "Are you mainly distressed by severe ongoing physical symptoms?",
+        "No, the fear of what might be wrong is the biggest problem."
+      ]
+    ]
+  },
+  {
+    "case_id": 58,
+    "opening": "There is something about my appearance that I cannot stop thinking about.",
+    "questions": [
+      [
+        "What is worrying you about your appearance?",
+        "There's something about my face that I can't stop thinking about, even though other people say it's barely noticeable."
+      ],
+      [
+        "What do you do when the worry comes up?",
+        "I keep checking mirrors or trying to conceal it."
+      ],
+      [
+        "How much time does it take?",
+        "Hours on some days."
+      ],
+      [
+        "Does it interfere with your life?",
+        "Yes, I end up avoiding things because I'm so preoccupied."
+      ]
+    ]
+  },
+  {
+    "case_id": 59,
+    "opening": "I cannot bear to throw things away, even when my home is becoming difficult to use.",
+    "questions": [
+      [
+        "What makes it hard to throw things away?",
+        "Even things with almost no value feel important to keep. I worry I'll need them later."
+      ],
+      [
+        "What is your home like now?",
+        "There is so much stuff that the kitchen isn't really usable."
+      ],
+      [
+        "How long has this been happening?",
+        "For years; it didn't happen all at once."
+      ],
+      [
+        "Would sorting and discarding the objects feel easy?",
+        "No. It causes a great deal of distress."
+      ]
+    ]
+  },
+  {
+    "case_id": 60,
+    "opening": "Sometimes the world feels unreal, almost as though I am watching myself from outside.",
+    "questions": [
+      [
+        "What happens during these strange episodes?",
+        "It feels as though I'm outside my body or watching myself from a distance."
+      ],
+      [
+        "What happens to familiar places?",
+        "Rooms can feel unreal, almost like a film set."
+      ],
+      [
+        "Do you actually believe the room has ceased to exist?",
+        "No. I know it's a feeling, even though it is frightening."
+      ],
+      [
+        "How long have these episodes been occurring?",
+        "On and off for around eight months."
+      ]
+    ]
+  },
+  {
+    "case_id": 61,
+    "opening": "There are important parts of my life I simply cannot remember.",
+    "questions": [
+      [
+        "What part of your memory is missing?",
+        "There is a stretch of important personal events that I just can't retrieve."
+      ],
+      [
+        "When did you first notice the gap?",
+        "After a period of severe stress."
+      ],
+      [
+        "Can you still learn ordinary new information?",
+        "Yes. Everyday things and general knowledge are not missing in the same way."
+      ],
+      [
+        "Is this just forgetting where you put your keys?",
+        "No, it involves significant personal experiences."
+      ]
+    ]
+  },
+  {
+    "case_id": 62,
+    "opening": "Ever since the frightening event, I have felt on edge and keep having intrusive memories.",
+    "questions": [
+      [
+        "When did the accident happen?",
+        "Nine days ago. I witnessed a very serious crash."
+      ],
+      [
+        "What happens when you remember it?",
+        "Images come back when I don't want them, and I feel on edge."
+      ],
+      [
+        "Have you changed what you do?",
+        "I avoid reminders, and sometimes I feel disconnected from what's happening."
+      ],
+      [
+        "Is it affecting everyday functioning?",
+        "Yes, more than I expected for the time since it happened."
+      ]
+    ]
+  },
+  {
+    "case_id": 63,
+    "opening": "Social situations and changes in routine have always been difficult for me.",
+    "questions": [
+      [
+        "Were these social differences present only recently?",
+        "No, they've been noticeable since childhood."
+      ],
+      [
+        "What kinds of social situations are difficult?",
+        "The back-and-forth of conversations and reading other people's social signals can be hard."
+      ],
+      [
+        "Are routines important to you?",
+        "Very. Sudden changes can be uncomfortable, and I get deeply absorbed in particular interests."
+      ],
+      [
+        "Do these differences matter in more than one setting?",
+        "Yes, they have affected different parts of everyday life."
+      ]
+    ]
+  },
+  {
+    "case_id": 64,
+    "opening": "I have trouble sitting still, staying focused, and finishing things.",
+    "questions": [
+      [
+        "Have you struggled to stay focused since childhood?",
+        "Yes, I've had attention problems since primary school."
+      ],
+      [
+        "Do you also find yourself acting or speaking before thinking?",
+        "Yes, restlessness and impulsive behavior are part of it too."
+      ],
+      [
+        "Does this happen in different places?",
+        "At home and in education, not just during one subject."
+      ],
+      [
+        "Has it actually affected your functioning?",
+        "Yes, that's why I wanted help."
+      ]
+    ]
+  },
+  {
+    "case_id": 65,
+    "opening": "I want to connect with people, but I am so afraid of rejection that I hold back.",
+    "questions": [
+      [
+        "Would you like closer friendships?",
+        "Yes, very much. I just worry people will reject me if I try."
+      ],
+      [
+        "What stops you from taking opportunities?",
+        "I imagine being criticized or embarrassed and then back away."
+      ],
+      [
+        "Has this affected work or relationships?",
+        "Both. I avoid applying for things and getting close to people."
+      ],
+      [
+        "How long has this pattern been present?",
+        "Since around late adolescence."
+      ]
+    ]
+  },
+  {
+    "case_id": 66,
+    "opening": "I need things done exactly right, and it is hard to delegate or relax my standards.",
+    "questions": [
+      [
+        "What is hardest about delegating tasks?",
+        "I worry they won't be done exactly the right way, so I take them back or keep checking."
+      ],
+      [
+        "Does planning take more time than doing?",
+        "Sometimes I spend so long on rules and details that I miss deadlines."
+      ],
+      [
+        "Where does this show up?",
+        "At work and at home."
+      ],
+      [
+        "Is it just one temporary stressful period?",
+        "No, I've been this rigid for a long time."
+      ]
+    ]
+  },
+  {
+    "case_id": 67,
+    "opening": "Sometimes I eat far more than I intend to and then try to undo it.",
+    "questions": [
+      [
+        "What happens during an eating episode?",
+        "I eat much more than I meant to and feel unable to stop."
+      ],
+      [
+        "What do you do afterward?",
+        "I sometimes make myself vomit because I'm so afraid of gaining weight."
+      ],
+      [
+        "How often has this pattern occurred?",
+        "At least weekly over the last four months."
+      ],
+      [
+        "How does it affect the way you see yourself?",
+        "My shape and weight have an enormous influence on how I feel about myself."
+      ]
+    ]
+  },
+  {
+    "case_id": 68,
+    "opening": "I sometimes eat a large amount very quickly and feel out of control afterward.",
+    "questions": [
+      [
+        "What are the eating episodes like?",
+        "I eat very quickly, even when I'm not physically hungry, and feel I can't stop."
+      ],
+      [
+        "How do you feel afterward?",
+        "Ashamed and upset about what happened."
+      ],
+      [
+        "How often does this occur?",
+        "At least weekly, for roughly six months."
+      ],
+      [
+        "Do you regularly vomit or use other compensatory behaviors afterward?",
+        "No, that isn't part of this pattern."
+      ]
+    ]
+  },
+  {
+    "case_id": 69,
+    "opening": "Eating is hard for me, but not because I want to lose weight.",
+    "questions": [
+      [
+        "Why is the range of foods you eat so limited?",
+        "Certain textures make me feel sick, and I'm frightened of unpleasant consequences from eating some foods."
+      ],
+      [
+        "Has this been going on long?",
+        "Since childhood."
+      ],
+      [
+        "Is the restriction about wanting to change your body shape?",
+        "No, it's about how food feels and what I fear will happen."
+      ],
+      [
+        "Has it affected your health?",
+        "Yes, I've developed nutritional problems."
+      ]
+    ]
+  },
+  {
+    "case_id": 70,
+    "opening": "I lie awake for hours, and the lack of sleep is affecting my days.",
+    "questions": [
+      [
+        "What happens when you try to sleep?",
+        "I lie awake for a long time or wake up and can't get back to sleep."
+      ],
+      [
+        "Do you have enough time available for sleep?",
+        "Yes, I give myself the opportunity, but sleep still doesn't come easily."
+      ],
+      [
+        "How many nights a week is this a problem?",
+        "At least three nights most weeks, for about five months."
+      ],
+      [
+        "What does it do to your daytime life?",
+        "I'm tired and it affects how I function during the day."
+      ]
+    ]
+  },
+  {
+    "case_id": 71,
+    "opening": "Drinking has started to control my routine, even though it is causing problems.",
+    "questions": [
+      [
+        "Do you sometimes drink more than you planned?",
+        "Yes, I tell myself I'll have a little and end up drinking much more."
+      ],
+      [
+        "Have you tried reducing it?",
+        "Many times, but I haven't been able to stick to it."
+      ],
+      [
+        "What happens if you think about not drinking?",
+        "I get strong cravings."
+      ],
+      [
+        "Has alcohol caused problems outside drinking itself?",
+        "Yes, at work and in my relationships, and it's been going on for over a year."
+      ]
+    ]
+  },
+  {
+    "case_id": 72,
+    "opening": "I have a hard time trusting people. I often think they have hidden motives.",
+    "questions": [
+      [
+        "What tends to happen when someone makes an ordinary remark?",
+        "I often think there's a hidden insult or threat in it."
+      ],
+      [
+        "Is it easy for you to trust other people?",
+        "No, I keep wondering whether they're secretly against me."
+      ],
+      [
+        "Does this lead to conflict?",
+        "I can hold on to grievances for a long time."
+      ],
+      [
+        "When did this pattern start?",
+        "It's been part of how I relate to people since early adulthood."
+      ]
+    ]
+  },
+  {
+    "case_id": 73,
+    "opening": "I generally prefer being alone and do not feel much need for close relationships.",
+    "questions": [
+      [
+        "How much do you want close relationships?",
+        "Not very much. I've usually been more comfortable alone."
+      ],
+      [
+        "What activities do you choose?",
+        "Mostly solitary ones."
+      ],
+      [
+        "Do strong emotional reactions come easily?",
+        "I don't tend to show much outward emotion."
+      ],
+      [
+        "Has this only started during a recent depressive episode?",
+        "No, it's a longstanding pattern going back to late adolescence."
+      ]
+    ]
+  },
+  {
+    "case_id": 74,
+    "opening": "I often feel that ordinary things have a special meaning just for me.",
+    "questions": [
+      [
+        "How do social situations feel to you?",
+        "Even with familiar people, I feel uncomfortable and separate from them."
+      ],
+      [
+        "Have other people commented on how you speak?",
+        "Yes, they say my speech or ideas can seem unusual."
+      ],
+      [
+        "Do you sometimes find events have a special connection to you?",
+        "Sometimes ordinary events seem personally meaningful in an odd way."
+      ],
+      [
+        "Has this been happening for a short time?",
+        "No, it's been a pattern over many years."
+      ]
+    ]
+  },
+  {
+    "case_id": 75,
+    "opening": "I have repeatedly gotten into trouble for things that other people say hurt them.",
+    "questions": [
+      [
+        "Have you often done things that harmed other people?",
+        "I've lied or acted recklessly even when it affected others."
+      ],
+      [
+        "Have there been repeated problems respecting other people's rights?",
+        "Yes, across different situations."
+      ],
+      [
+        "Was there evidence of problems before adulthood?",
+        "Records and people who knew me then describe conduct problems before I was fifteen."
+      ],
+      [
+        "Is this based on just one isolated incident?",
+        "No. It's a longer pattern."
+      ]
+    ]
+  },
+  {
+    "case_id": 76,
+    "opening": "I feel invisible unless people notice me, and my emotions can get very intense.",
+    "questions": [
+      [
+        "How do you feel when you are not getting attention?",
+        "I can feel uncomfortable, as though I'm fading into the background."
+      ],
+      [
+        "What do people notice about the way you express emotions?",
+        "They say I can be very dramatic and expressive."
+      ],
+      [
+        "Does this happen only with one person?",
+        "No, it comes up in different social and work settings."
+      ],
+      [
+        "Has this been a recent change?",
+        "No, it's how I've been for years."
+      ]
+    ]
+  },
+  {
+    "case_id": 77,
+    "opening": "I need people to recognize what I have achieved, and criticism hits me hard.",
+    "questions": [
+      [
+        "What do you hope people notice about you?",
+        "I want them to recognize how much I contribute, and it hurts when they don't."
+      ],
+      [
+        "How do disagreements tend to go?",
+        "I can become defensive when I feel criticized."
+      ],
+      [
+        "What do others say is difficult about your relationships?",
+        "They say I expect special treatment and don't always take their feelings into account."
+      ],
+      [
+        "Is this limited to one recent conflict?",
+        "No, it's a pattern in different settings over a long time."
+      ]
+    ]
+  },
+  {
+    "case_id": 78,
+    "opening": "I find it very difficult to make decisions without someone reassuring me.",
+    "questions": [
+      [
+        "What is hardest about making an important decision?",
+        "I feel I need someone else to reassure me before I can decide."
+      ],
+      [
+        "What happens if you disagree with someone close?",
+        "I often stay quiet because I'm afraid they'll stop supporting me."
+      ],
+      [
+        "Have you relied on others like this for a long time?",
+        "Yes, across many parts of my life."
+      ],
+      [
+        "Does the possibility of being left alone worry you?",
+        "Very much. It affects what I agree to do."
+      ]
+    ]
+  },
+  {
+    "case_id": 79,
+    "opening": "I have been experiencing unusual beliefs and voices, and it has affected my life recently.",
+    "questions": [
+      [
+        "When did you start hearing or seeing things others couldn't?",
+        "About eight weeks ago."
+      ],
+      [
+        "What else changed around the same time?",
+        "My thoughts and speech have become confused, and I've developed beliefs others say are untrue."
+      ],
+      [
+        "Have you had these symptoms for many years?",
+        "No, this is a fairly recent episode."
+      ],
+      [
+        "Has a medication or medical illness been identified as the cause?",
+        "Not from what has been established in this case."
+      ]
+    ]
+  },
+  {
+    "case_id": 80,
+    "opening": "Something very strange happened to my thinking quite suddenly, and people around me became concerned.",
+    "questions": [
+      [
+        "How did the changes begin?",
+        "Very suddenly. I started hearing things and my speech became disorganized."
+      ],
+      [
+        "How long did they last?",
+        "About twelve days."
+      ],
+      [
+        "How are you functioning now?",
+        "I've returned to the way I was before the episode."
+      ],
+      [
+        "Were mood symptoms or substances identified as the explanation?",
+        "No, they were not considered the cause in this case."
+      ]
+    ]
+  },
+  {
+    "case_id": 81,
+    "opening": "I am certain someone is acting against me, although others insist I am mistaken.",
+    "questions": [
+      [
+        "What do you believe has been happening?",
+        "For months I've believed someone is targeting me, even though other people disagree."
+      ],
+      [
+        "How long has this belief been there?",
+        "Around seven months."
+      ],
+      [
+        "What is daily life like outside this concern?",
+        "Most parts of my everyday life are relatively unchanged."
+      ],
+      [
+        "Have you also had broad disorganization in speech or behavior?",
+        "No, that's not what has been described."
+      ]
+    ]
+  },
+  {
+    "case_id": 82,
+    "opening": "These strange experiences began while I was dealing with another medical problem.",
+    "questions": [
+      [
+        "Did anything physical change before the unusual experiences?",
+        "Yes, I began having seizures and other neurological problems around the same time."
+      ],
+      [
+        "What kinds of mental experiences followed?",
+        "I started having experiences and beliefs that worried the people around me."
+      ],
+      [
+        "Did the medical tests find anything relevant?",
+        "The workup identified a neurological condition that could explain the new symptoms."
+      ],
+      [
+        "Was there a long history of unexplained psychosis before the neurological changes?",
+        "No, this was a new problem alongside the medical changes."
+      ]
+    ]
+  },
+  {
+    "case_id": 83,
+    "opening": "I have been severely depressed and started believing terrible things that others say are not true.",
+    "questions": [
+      [
+        "How have you been feeling lately?",
+        "Deeply low. Nothing seems enjoyable and everything takes enormous effort."
+      ],
+      [
+        "What kinds of beliefs have troubled you?",
+        "I have fixed beliefs about my guilt and worthlessness that people say are not true."
+      ],
+      [
+        "When do those beliefs occur?",
+        "Only during this severe depressive episode."
+      ],
+      [
+        "Have you had a period of mania?",
+        "No, none has been described in the case history."
+      ]
+    ]
+  },
+  {
+    "case_id": 84,
+    "opening": "During periods when my mood becomes extremely elevated, I have also had unusual beliefs.",
+    "questions": [
+      [
+        "How much sleep have you needed?",
+        "Almost none for days, yet I still feel unusually energized."
+      ],
+      [
+        "What has changed in your mood and activity?",
+        "For about nine days I've been much more elevated or irritable, and I can't slow down."
+      ],
+      [
+        "Have your beliefs changed during this period?",
+        "Yes, I have developed beliefs others say are far outside reality while I've been in this state."
+      ],
+      [
+        "How serious has the episode become?",
+        "It has disrupted my life so much that hospital care has been needed."
+      ]
+    ]
+  }
+]

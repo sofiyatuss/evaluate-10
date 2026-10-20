@@ -1,0 +1,2274 @@
+[
+  {
+    "id": 0,
+    "name": "ADHD",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Neurodevelopmental condition involving developmentally inappropriate, impairing inattention and/or hyperactivity-impulsivity across settings.",
+    "assessment": "Assess childhood onset, functional impairment, history across settings, sleep, mood, learning and substance factors.",
+    "caution": "Symptoms alone are insufficient; DSM-5-TR requires multiple criteria and onset of several symptoms before age 12.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Adjustment disorder",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Emotional or behavioral symptoms in response to an identifiable stressor, with distress or impairment disproportionate to context.",
+    "assessment": "Establish timing relative to the stressor, functioning, cultural context and alternative disorders.",
+    "caution": "Symptoms typically begin within three months of the stressor; consider whether another disorder better explains the presentation.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alcohol withdrawal",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Autonomic and neuropsychiatric syndrome after reduction or cessation of sustained heavy alcohol use.",
+    "assessment": "Ask about drinking history, timing, tremor, sweating, agitation, seizures, hallucinations and vital signs.",
+    "caution": "Seizures and delirium tremens can be life-threatening and require urgent medical care.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ALS",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Amyotrophic lateral sclerosis is a progressive motor neuron disease affecting upper and lower motor neuron pathways.",
+    "assessment": "Assess progressive weakness, atrophy, fasciculations, spasticity, bulbar and respiratory function; exclude mimics.",
+    "caution": "Sensory loss is not usually a dominant feature; diagnosis requires specialist clinical assessment and often EMG.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Alzheimer-related logopenic PPA",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Language-led neurodegenerative syndrome with word-finding pauses and impaired sentence repetition; Alzheimer pathology is a common cause.",
+    "assessment": "Evaluate naming, repetition, phonological working memory, neuropsychology, MRI and, when appropriate, biomarkers.",
+    "caution": "Logopenic primary progressive aphasia is a syndrome; Alzheimer pathology should not be assumed without supportive evidence.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Anxiety",
+    "kind": "symptom / broad category",
+    "summary": "A normal emotional state of apprehension or threat anticipation that can also occur in medical and psychiatric disorders.",
+    "assessment": "Explore triggers, duration, avoidance, physical symptoms, impairment and medical or substance causes.",
+    "caution": "Anxiety itself is a symptom, not a specific anxiety disorder.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "anxiety disorder",
+    "kind": "symptom / broad category",
+    "summary": "Umbrella term for disorders involving excessive fear or anxiety and associated avoidance or impairment.",
+    "assessment": "Characterize the feared situations, time course, functional impact and alternative medical causes.",
+    "caution": "Panic disorder, phobias, generalized anxiety disorder and other anxiety disorders have different criteria.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "aphasic stroke",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Stroke affecting language networks, often in the dominant cerebral hemisphere, causing sudden language impairment.",
+    "assessment": "Urgently assess onset time, language, other deficits and brain/vascular imaging.",
+    "caution": "Sudden aphasia is a stroke emergency until proven otherwise; seizures and migraine can mimic it.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "ARFID",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Avoidant/restrictive food intake disorder: insufficient intake due to sensory aversion, low interest or fear of consequences, without weight/shape disturbance driving restriction.",
+    "assessment": "Assess growth, nutrition, deficiencies, psychosocial impact and exclusion of medical or cultural explanations.",
+    "caution": "Unlike anorexia nervosa, restriction is not primarily motivated by fear of weight gain.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "arrhythmia",
+    "kind": "symptom / broad category",
+    "summary": "Abnormal cardiac rhythm that may cause palpitations, dizziness, fainting or instability.",
+    "assessment": "Assess pulse, ECG, symptom rhythm correlation, medications, electrolytes and cardiac risk.",
+    "caution": "Syncope with chest pain, exertion or family history of sudden death warrants urgent assessment.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "arterial stroke",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Acute ischemic brain injury caused by interruption of arterial blood flow.",
+    "assessment": "Record last-known-well time; urgent stroke evaluation with brain and vascular imaging.",
+    "caution": "Sudden focal deficit requires emergency care; reperfusion eligibility is time-dependent.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "autoimmune encephalitis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Inflammatory brain syndrome mediated by immune mechanisms, potentially causing subacute memory, behavioral, seizure or movement symptoms.",
+    "assessment": "Assess subacute evolution, MRI, EEG, CSF, antibody testing and infectious mimics in specialist care.",
+    "caution": "Normal early MRI or negative antibody tests do not necessarily exclude the diagnosis; infection must be evaluated.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "avoidant personality traits",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Persistent tendencies toward social inhibition and fear of criticism that may be subclinical.",
+    "assessment": "Explore duration, context, distress, interpersonal goals and functional impact.",
+    "caution": "Traits alone do not establish avoidant personality disorder.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "B12 deficiency",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Low vitamin B12 causing hematologic, neurological and cognitive manifestations, sometimes without anemia.",
+    "assessment": "Check B12 status, blood count and relevant confirmatory tests; evaluate diet, absorption and neurological signs.",
+    "caution": "Untreated neurological damage may persist; normal blood count does not exclude neurological involvement.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "bipolar depression",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Depressive episode occurring in a person with bipolar disorder, often clinically resembling unipolar depression.",
+    "assessment": "Ask specifically about past mania/hypomania, medications, substances, safety and longitudinal course.",
+    "caution": "A current depressive episode cannot establish bipolar disorder without relevant mood episode history.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "bipolar depression with psychotic features",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Bipolar depressive episode accompanied by delusions or hallucinations.",
+    "assessment": "Confirm depressive episode, bipolar history, psychosis timing and urgent safety risks.",
+    "caution": "Psychosis occurring independently of mood episodes broadens the differential to schizoaffective and primary psychotic disorders.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bipolar disorder",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Mood disorder spectrum characterized by episodes of mania and/or hypomania, often with depression.",
+    "assessment": "Obtain longitudinal mood, energy, sleep, activity, impairment and treatment history.",
+    "caution": "Bipolar I requires mania; bipolar II involves hypomania and major depression without past mania.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Bipolar disorder with psychotic features",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Bipolar disorder in which psychotic symptoms occur during mood episodes.",
+    "assessment": "Establish whether psychosis is confined to mania or depression and assess risk.",
+    "caution": "Psychosis during an elevated episode makes that episode manic, not hypomanic.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "bipolar mania",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Manic episode with abnormally elevated or irritable mood and increased activity or energy, plus characteristic associated changes.",
+    "assessment": "Assess duration, sleep need, speech, judgment, risk, impairment and substance or medical causes.",
+    "caution": "A full manic episode generally lasts at least one week or any duration if hospitalization is necessary.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "bipolar psychosis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Informal label for psychotic symptoms occurring during a bipolar mood episode.",
+    "assessment": "Document exact relationship between mood and psychotic symptoms.",
+    "caution": "Not a separate DSM-5-TR diagnosis; classify the underlying bipolar episode with psychotic features.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "botulism",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Neuroparalytic illness due to botulinum toxin impairing neuromuscular transmission.",
+    "assessment": "Urgently assess descending weakness, cranial nerves, swallowing, breathing and exposure history.",
+    "caution": "A medical emergency; pupils and autonomic findings may help distinguish it from myasthenia gravis.",
+    "sources": [
+      {
+        "title": "U.S. Centers for Disease Control and Prevention — Health Topics",
+        "url": "https://www.cdc.gov/"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Brain metastasis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Secondary brain tumor resulting from cancer spreading from another organ.",
+    "assessment": "Assess cancer history, focal signs, seizures and contrast MRI; coordinate oncology workup.",
+    "caution": "Multiple lesions suggest but do not prove metastases; tissue diagnosis may be necessary.",
+    "sources": [
+      {
+        "title": "U.S. National Cancer Institute — Adult CNS Tumors",
+        "url": "https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Cervical radiculopathy",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Irritation or compression of a cervical nerve root causing neck/arm pain and segmental sensory or motor symptoms.",
+    "assessment": "Examine myotomes, reflexes, dermatomes and red flags; image selectively.",
+    "caution": "Differentiate from peripheral entrapment and cervical myelopathy.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "chronic pain with adaptive coping",
+    "kind": "symptom / broad category",
+    "summary": "Persistent pain accompanied by effective coping strategies and maintained functioning; this is not a disease diagnosis.",
+    "assessment": "Assess pain mechanism, interference, mood, sleep and functional goals.",
+    "caution": "Adaptive coping does not imply pain is unreal or exclude treatable pathology.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "circadian rhythm disorder",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Sleep-wake disturbance from mismatch between internal circadian timing and desired schedule.",
+    "assessment": "Use sleep history, diaries, actigraphy when indicated, and evaluate shift work or light exposure.",
+    "caution": "Distinguish from insufficient sleep and primary insomnia.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Copper deficiency",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Nutritional or absorption-related deficiency that can produce anemia, neutropenia and myeloneuropathy.",
+    "assessment": "Assess serum copper/ceruloplasmin, zinc exposure, gastrointestinal history and spinal cord findings.",
+    "caution": "Can resemble B12-related myelopathy; excess zinc is a potential cause.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "cranial neuropathy",
+    "kind": "symptom / broad category",
+    "summary": "Dysfunction of one or more cranial nerves affecting eye movements, facial function, sensation, hearing or swallowing.",
+    "assessment": "Localize affected nerve(s), onset, associated deficits and consider imaging/infectious workup.",
+    "caution": "This is a localization category, not one disease; multiple nerves may suggest a skull-base or meningeal process.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Dementia",
+    "kind": "symptom / broad category",
+    "summary": "Acquired cognitive decline severe enough to interfere with independent daily function, due to various causes.",
+    "assessment": "Assess cognition, function, onset, delirium, depression, medication effects and reversible contributors.",
+    "caution": "Dementia is a clinical syndrome, not synonymous with Alzheimer disease.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Depression",
+    "kind": "symptom / broad category",
+    "summary": "Low mood or diminished interest that may be a symptom, episode or component of multiple conditions.",
+    "assessment": "Assess duration, anhedonia, neurovegetative changes, function, bipolar history and suicide risk.",
+    "caution": "A depressive symptom is not necessarily major depressive disorder.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Depressive disorder",
+    "kind": "symptom / broad category",
+    "summary": "Umbrella category encompassing disorders with clinically significant depressive symptoms and impairment.",
+    "assessment": "Determine episode duration, severity, recurrence, developmental context and medical causes.",
+    "caution": "Specific diagnoses such as major depressive disorder and persistent depressive disorder have distinct requirements.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Diabetic ketoacidosis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Acute metabolic emergency with ketonemia and acidosis caused by relative or absolute insulin deficiency.",
+    "assessment": "Urgent glucose, blood ketones, blood gas, electrolytes and precipitant evaluation.",
+    "caution": "DKA can occur with only modest glucose elevation, including with SGLT2 inhibitor use.",
+    "sources": [
+      {
+        "title": "American Diabetes Association — Standards of Care",
+        "url": "https://professional.diabetes.org/standards-of-care"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "dissociation",
+    "kind": "symptom / broad category",
+    "summary": "Disruption of normal integration of memory, identity, perception, consciousness or experience.",
+    "assessment": "Clarify depersonalization, derealization, amnesia, trauma, seizures and substances.",
+    "caution": "Dissociation is a phenomenon, not automatically dissociative identity disorder.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "DLB",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Dementia with Lewy bodies: progressive cognitive syndrome often with fluctuations, visual hallucinations, REM sleep behavior disorder and parkinsonism.",
+    "assessment": "Assess cognition, sleep, motor findings, medications and supportive biomarkers where appropriate.",
+    "caution": "Marked antipsychotic sensitivity can occur; distinguish from Parkinson disease dementia using clinical timing.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Drug-induced chorea",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Involuntary irregular flowing movements associated with medication or substance exposure.",
+    "assessment": "Review dopamine-modulating drugs, stimulants, metabolic factors and onset after exposure.",
+    "caution": "Consider Huntington disease, metabolic disorders and other causes before attributing movements to a drug.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "drug-induced dystonia",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Sustained or intermittent muscle contractions producing abnormal postures or twisting, triggered by medication.",
+    "assessment": "Review recent dopamine-blocking agents and onset; assess airway if neck or throat affected.",
+    "caution": "Acute laryngeal dystonia can threaten breathing and requires emergency care.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "drug-induced parkinsonism",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Bradykinesia with rigidity or tremor associated with dopamine-blocking or dopamine-depleting medication.",
+    "assessment": "Review exposure and timing, examination and alternative degenerative causes.",
+    "caution": "Often more symmetric than idiopathic Parkinson disease, but clinical patterns overlap.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "eating disorder",
+    "kind": "symptom / broad category",
+    "summary": "Broad category of persistent eating or feeding disturbances impairing health or psychosocial function.",
+    "assessment": "Assess intake, weight trajectory, compensatory behavior, medical stability and psychological drivers.",
+    "caution": "A broad category, not a single diagnosis; ARFID, anorexia, bulimia and binge-eating disorder differ.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "focal seizure",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Seizure beginning in a network limited to one cerebral hemisphere, with variable awareness and motor/sensory manifestations.",
+    "assessment": "Characterize stereotyped episodes, witness history, EEG and MRI as appropriate.",
+    "caution": "A single seizure does not automatically establish epilepsy.",
+    "sources": [
+      {
+        "title": "International League Against Epilepsy — Definition and classification",
+        "url": "https://www.ilae.org/guidelines/definition-and-classification/definition-of-epilepsy-2014"
+      },
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "focal seizures",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Plural of focal seizure: recurrent or multiple seizures arising in a localized brain network.",
+    "assessment": "Assess event semiology, frequency, provoking factors, EEG and structural causes.",
+    "caution": "Focal seizures can spread bilaterally; consider seizure mimics such as syncope.",
+    "sources": [
+      {
+        "title": "International League Against Epilepsy — Definition and classification",
+        "url": "https://www.ilae.org/guidelines/definition-and-classification/definition-of-epilepsy-2014"
+      },
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "functional tic-like behaviors",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Tic-like movements or sounds associated with functional neurological symptom mechanisms, often with atypical rapid onset.",
+    "assessment": "Assess phenomenology, time course, functional impact and coexistence with Tourette syndrome.",
+    "caution": "Not deliberate or fabricated; diagnosis relies on positive clinical features, not merely normal tests.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "GAD",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Generalized anxiety disorder: excessive difficult-to-control worry across domains with associated symptoms and impairment.",
+    "assessment": "Assess at least six months of worry in adults, sleep, tension, restlessness, concentration and mimics.",
+    "caution": "Generalized worry differs from fear restricted to one object or situation.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "gastrointestinal disorder",
+    "kind": "symptom / broad category",
+    "summary": "Broad term for disease affecting the digestive tract or associated organs.",
+    "assessment": "Localize symptoms and assess alarm features, nutrition, stool patterns and relevant testing.",
+    "caution": "Not a single diagnosis; avoid attributing symptoms to anxiety without medical assessment.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "gastrointestinal illness",
+    "kind": "symptom / broad category",
+    "summary": "Nonspecific digestive illness, acute or chronic, infectious or noninfectious.",
+    "assessment": "Assess hydration, duration, pain, bleeding, fever, medications and exposure history.",
+    "caution": "Severe abdominal pain, blood loss or dehydration may require urgent care.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Glioma",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Diverse primary CNS tumors with glial differentiation and molecularly defined subtypes.",
+    "assessment": "Assess neurologic symptoms, MRI and neuro-oncology review; tissue and molecular testing may be required.",
+    "caution": "Imaging appearance alone does not establish tumor grade or molecular subtype.",
+    "sources": [
+      {
+        "title": "U.S. National Cancer Institute — Adult CNS Tumors",
+        "url": "https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "hepatic encephalopathy",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Potentially reversible brain dysfunction associated with severe liver disease or portosystemic shunting.",
+    "assessment": "Assess mental status, precipitating factors, infection, bleeding, constipation and metabolic alternatives.",
+    "caution": "Ammonia levels alone do not diagnose or grade the syndrome; consider other causes of altered consciousness.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "HSV encephalitis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Herpes simplex virus infection of brain tissue, often affecting temporal lobes and causing fever, seizures and confusion.",
+    "assessment": "Urgent lumbar puncture with CSF PCR, MRI, EEG and empiric antiviral treatment when suspected.",
+    "caution": "Potentially fatal without prompt treatment; do not wait for confirmatory PCR to start care when strongly suspected.",
+    "sources": [
+      {
+        "title": "U.S. Centers for Disease Control and Prevention — Health Topics",
+        "url": "https://www.cdc.gov/"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Hyperglycemia",
+    "kind": "symptom / broad category",
+    "summary": "Blood glucose above the expected range, due to diabetes, stress physiology, drugs or other causes.",
+    "assessment": "Confirm glucose, assess symptoms, HbA1c and dehydration or ketosis when indicated.",
+    "caution": "A laboratory finding rather than a specific disease; severe symptoms can signal DKA or HHS.",
+    "sources": [
+      {
+        "title": "American Diabetes Association — Standards of Care",
+        "url": "https://professional.diabetes.org/standards-of-care"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Hyperosmolar hyperglycemic state",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Hyperglycemic emergency with marked hyperosmolality and dehydration, usually with minimal significant ketoacidosis.",
+    "assessment": "Urgent electrolytes, osmolality, glucose, renal function, ketones and mental status.",
+    "caution": "May overlap with DKA; requires hospital treatment.",
+    "sources": [
+      {
+        "title": "American Diabetes Association — Standards of Care",
+        "url": "https://professional.diabetes.org/standards-of-care"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "hyperthyroidism",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Excess thyroid hormone effect causing weight loss, heat intolerance, tremor, palpitations and anxiety-like symptoms.",
+    "assessment": "Check TSH, free thyroid hormones and cause-specific evaluation.",
+    "caution": "Thyroid storm is an emergency; do not diagnose an anxiety disorder before considering thyroid disease when indicated.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Hypoglycemia",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Abnormally low glucose that may cause sweating, tremor, confusion, seizures or loss of consciousness.",
+    "assessment": "Check glucose during symptoms and investigate drugs, fasting or systemic causes.",
+    "caution": "Whipple triad helps confirm clinically important hypoglycemia in people without diabetes; severe episodes require urgent treatment.",
+    "sources": [
+      {
+        "title": "American Diabetes Association — Standards of Care",
+        "url": "https://professional.diabetes.org/standards-of-care"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "hypothyroidism",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Insufficient thyroid hormone effect causing fatigue, cold intolerance, constipation, cognitive slowing and other symptoms.",
+    "assessment": "Measure TSH and free T4; interpret according to pituitary and clinical context.",
+    "caution": "Symptoms overlap with depression and many non-thyroid conditions.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Intracranial bleed",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Bleeding within the skull, including intracerebral, subarachnoid and extra-axial hemorrhage.",
+    "assessment": "Urgent neurological evaluation and brain imaging, usually noncontrast CT initially.",
+    "caution": "Thunderclap headache, sudden deficits or altered consciousness require emergency assessment.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "intracranial mass",
+    "kind": "symptom / broad category",
+    "summary": "Space-occupying intracranial lesion, including tumor, abscess, hematoma or other process.",
+    "assessment": "Evaluate focal deficits, seizures, raised-pressure symptoms and appropriate imaging.",
+    "caution": "An imaging description, not a specific tumor diagnosis.",
+    "sources": [
+      {
+        "title": "U.S. National Cancer Institute — Adult CNS Tumors",
+        "url": "https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "learning disorder",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Persistent difficulty acquiring academic skills despite appropriate instruction, with functional impairment.",
+    "assessment": "Assess developmental and educational history, standardized academic performance and alternative explanations.",
+    "caution": "Specific learning disorder is distinct from intellectual disability and insufficient teaching opportunity.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Lyme disease",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Tick-borne Borrelia infection with variable skin, joint, cardiac and neurological manifestations.",
+    "assessment": "Use exposure history, examination and stage-appropriate validated serology when indicated.",
+    "caution": "Testing without compatible clinical context may mislead; facial palsy and meningoradiculitis are possible manifestations.",
+    "sources": [
+      {
+        "title": "U.S. Centers for Disease Control and Prevention — Health Topics",
+        "url": "https://www.cdc.gov/"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "medical illness",
+    "kind": "symptom / broad category",
+    "summary": "General label for physical health conditions, not an independent diagnosis.",
+    "assessment": "Investigate organ-system symptoms and objective abnormalities guided by history and examination.",
+    "caution": "A placeholder in differential reasoning; replace with a specific diagnosis when supported.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "medical weight loss",
+    "kind": "symptom / broad category",
+    "summary": "Weight reduction attributable to illness, medication or other physiological cause rather than a psychiatric eating disorder.",
+    "assessment": "Assess trajectory, intake, systemic symptoms, medication and targeted testing.",
+    "caution": "Unintentional weight loss is a finding; distinguish from intentional dieting or restrictive eating pathology.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "medication-overuse headache",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Headache associated with regular overuse of acute headache medication in someone with a pre-existing headache disorder.",
+    "assessment": "Document headache days, medication days and duration; classify by medication type.",
+    "caution": "Typically requires headache on at least 15 days/month and overuse for more than three months; thresholds vary by drug class.",
+    "sources": [
+      {
+        "title": "International Headache Society — ICHD-3",
+        "url": "https://ichd-3.org/classification-outline/"
+      },
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Meningioma",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Usually dural-based neoplasm arising from meningothelial cells; often slow-growing but behavior varies.",
+    "assessment": "Assess MRI appearance, growth, symptoms and specialist evaluation.",
+    "caution": "Imaging suggests but cannot always establish histologic grade.",
+    "sources": [
+      {
+        "title": "U.S. National Cancer Institute — Adult CNS Tumors",
+        "url": "https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "meningitis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Inflammation of meninges, often infectious, causing headache, fever, neck stiffness and sometimes altered consciousness.",
+    "assessment": "Urgent assessment; blood cultures and lumbar puncture when safe, with prompt empiric therapy if bacterial meningitis suspected.",
+    "caution": "Absence of neck stiffness does not exclude meningitis; bacterial meningitis is an emergency.",
+    "sources": [
+      {
+        "title": "U.S. Centers for Disease Control and Prevention — Health Topics",
+        "url": "https://www.cdc.gov/"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "migraine",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Primary headache disorder featuring recurrent attacks, often with nausea and light or sound sensitivity.",
+    "assessment": "Assess stereotyped attacks, frequency, aura and secondary-headache red flags.",
+    "caution": "Not every headache with nausea is migraine; sudden new thunderclap headache needs urgent evaluation.",
+    "sources": [
+      {
+        "title": "International Headache Society — ICHD-3",
+        "url": "https://ichd-3.org/classification-outline/"
+      },
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Migraine aura",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Fully reversible focal neurological symptoms, commonly visual, evolving gradually and often preceding migraine headache.",
+    "assessment": "Clarify gradual spread, sequence, duration and stroke/seizure mimics.",
+    "caution": "Typical aura commonly lasts 5–60 minutes per individual symptom; sudden negative deficits suggest TIA/stroke.",
+    "sources": [
+      {
+        "title": "International Headache Society — ICHD-3",
+        "url": "https://ichd-3.org/classification-outline/"
+      },
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "MOGAD",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Myelin oligodendrocyte glycoprotein antibody-associated disease, inflammatory CNS demyelination causing optic neuritis, myelitis or encephalitis.",
+    "assessment": "Assess MRI, phenotype, serum MOG-IgG by validated cell-based assay and mimics.",
+    "caution": "Positive antibodies without compatible syndrome may be misleading; distinct from multiple sclerosis and AQP4-NMOSD.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "mood disorder",
+    "kind": "symptom / broad category",
+    "summary": "Broad clinical category of disorders characterized by pathological changes in mood and associated function.",
+    "assessment": "Assess depression, mania/hypomania, duration, impairment, substances and medical causes.",
+    "caution": "Not a specific diagnosis; classify depressive versus bipolar syndromes appropriately.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "mood disorder with psychotic features",
+    "kind": "symptom / broad category",
+    "summary": "Descriptive term for mood episodes accompanied by delusions or hallucinations.",
+    "assessment": "Assess episode timing, mood severity and whether psychosis occurs outside mood episodes.",
+    "caution": "Formal diagnosis requires identifying the underlying mood disorder and episode.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "MS",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Multiple sclerosis: immune-mediated CNS demyelinating disease with lesions disseminated in space and time or equivalent criteria.",
+    "assessment": "Assess objective neurological attacks, MRI brain/spine, CSF where appropriate and exclusion of mimics.",
+    "caution": "A nonspecific white-matter MRI finding alone is not MS.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "MSA",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Multiple system atrophy, progressive synucleinopathy causing autonomic failure with parkinsonian and/or cerebellar features.",
+    "assessment": "Assess orthostatic blood pressure, urinary symptoms, gait, motor signs and specialist imaging.",
+    "caution": "Early prominent autonomic dysfunction and rapid progression can distinguish it from typical Parkinson disease.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Multifocal motor neuropathy",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Immune-mediated peripheral motor neuropathy producing asymmetric distal weakness without significant sensory loss.",
+    "assessment": "Assess distribution, nerve conduction block and other motor neuron disease mimics.",
+    "caution": "Treatable disorder; distinguish from ALS, which typically has upper motor neuron signs.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "myasthenia",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Usually shorthand for myasthenia gravis, autoimmune neuromuscular junction disorder causing fatigable weakness.",
+    "assessment": "Assess fluctuating ocular/bulbar/limb weakness, antibodies and electrophysiology.",
+    "caution": "Breathing or swallowing weakness may indicate myasthenic crisis and requires emergency care.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "night eating syndrome",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Recurrent evening/night food intake with awareness and distress, often associated with sleep and mood difficulties.",
+    "assessment": "Assess timing, awareness, intake, sleep pattern and other eating disorders.",
+    "caution": "Diagnostic classification differs across systems; distinguish from sleep-related eating disorder with reduced awareness.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "NMOSD",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Neuromyelitis optica spectrum disorder, inflammatory CNS disease often associated with aquaporin-4 antibodies.",
+    "assessment": "Assess severe optic neuritis, longitudinal myelitis, area postrema symptoms, MRI and serum AQP4-IgG.",
+    "caution": "Treatment strategies differ from MS; certain MS therapies can worsen NMOSD.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "NPH",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Normal pressure hydrocephalus: potentially treatable syndrome of gait disturbance, cognitive impairment and urinary symptoms with ventriculomegaly.",
+    "assessment": "Assess gait, MRI/CT and specialist CSF drainage testing when appropriate.",
+    "caution": "Gait impairment often predominates; ventriculomegaly alone does not prove NPH.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Obstructive sleep apnea",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Repeated upper-airway collapse during sleep causing disrupted breathing and sleep fragmentation.",
+    "assessment": "Assess snoring, witnessed apneas, daytime symptoms and objective sleep testing.",
+    "caution": "Can contribute to fatigue and cognition problems; severity is established by sleep study, not symptoms alone.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "occipital seizure",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Focal seizure arising from occipital cortex, often with brief stereotyped visual phenomena.",
+    "assessment": "Characterize sudden onset, brief duration, EEG and imaging as appropriate.",
+    "caution": "Visual migraine aura usually develops more gradually and lasts longer.",
+    "sources": [
+      {
+        "title": "International League Against Epilepsy — Definition and classification",
+        "url": "https://www.ilae.org/guidelines/definition-and-classification/definition-of-epilepsy-2014"
+      },
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "OCPD",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Obsessive-compulsive personality disorder, enduring rigidity, perfectionism and need for control impairing functioning.",
+    "assessment": "Assess pervasive pattern from early adulthood, context and impact on relationships/work.",
+    "caution": "Unlike OCD, OCPD is not defined by intrusive obsessions and compulsions.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "other substance use disorder",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "A substance use disorder involving a substance other than the specific one under discussion.",
+    "assessment": "Identify substance, impaired control, risky use, social impairment and physiological criteria where applicable.",
+    "caution": "Not all substance exposure or intoxication meets criteria for a substance use disorder.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Panic attacks",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Abrupt surges of intense fear or discomfort with autonomic and cognitive symptoms.",
+    "assessment": "Assess onset, peak, recurrence, triggers, cardiac/thyroid causes and substance use.",
+    "caution": "Panic attacks are a specifier/symptom phenomenon and can occur outside panic disorder.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Parkinson disease dementia",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Dementia developing in the setting of established Parkinson disease, often with executive, visuospatial and attention deficits.",
+    "assessment": "Review timeline of parkinsonism and dementia, cognitive function, hallucinations and medications.",
+    "caution": "Clinical one-year timing convention helps distinguish from dementia with Lewy bodies.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "peripheral neuropathy",
+    "kind": "symptom / broad category",
+    "summary": "Dysfunction of peripheral nerves causing numbness, pain, weakness or autonomic symptoms.",
+    "assessment": "Assess distribution, reflexes, diabetes, B12, toxins and nerve conduction studies when indicated.",
+    "caution": "A syndrome with many causes; distinguish polyneuropathy from focal mononeuropathy and radiculopathy.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Pituitary adenoma",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Pituitary neuroendocrine tumor, sometimes hormone-secreting or causing visual and endocrine effects.",
+    "assessment": "Evaluate pituitary hormone axes, visual fields when indicated and pituitary MRI.",
+    "caution": "Incidental lesions require different assessment from symptomatic hormone excess or compressive tumors.",
+    "sources": [
+      {
+        "title": "U.S. National Cancer Institute — Adult CNS Tumors",
+        "url": "https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Primary CNS lymphoma",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Lymphoma primarily arising in brain, spinal cord, eyes or meninges without systemic origin at diagnosis.",
+    "assessment": "Assess MRI, immune status, ocular involvement and specialist tissue diagnosis.",
+    "caution": "Corticosteroids before biopsy can obscure diagnosis in some cases; coordinate with specialists.",
+    "sources": [
+      {
+        "title": "U.S. National Cancer Institute — Adult CNS Tumors",
+        "url": "https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Primary psychiatric disorder",
+    "kind": "symptom / broad category",
+    "summary": "Broad description for psychiatric illness not primarily caused by a medical condition or substance.",
+    "assessment": "Evaluate longitudinal symptoms, medical causes, substance exposure and functional change.",
+    "caution": "A category, not a definitive diagnosis; avoid assuming symptoms are psychiatric without assessment.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Primary psychosis",
+    "kind": "symptom / broad category",
+    "summary": "Psychotic syndrome not attributable to a substance, medical illness or mood disorder alone.",
+    "assessment": "Assess delusions, hallucinations, disorganization, duration, functioning and alternatives.",
+    "caution": "An umbrella term; schizophrenia, delusional disorder and related disorders require separate criteria.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "PSP",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Progressive supranuclear palsy, atypical parkinsonian neurodegeneration often involving falls, eye-movement abnormalities and axial rigidity.",
+    "assessment": "Assess vertical saccades/gaze, postural instability, cognition and specialist imaging.",
+    "caution": "Early backward falls and vertical gaze dysfunction may distinguish from Parkinson disease.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "psychosis",
+    "kind": "symptom / broad category",
+    "summary": "Syndrome involving impaired reality testing such as delusions or hallucinations.",
+    "assessment": "Assess safety, onset, mental state, substances, delirium, mood episodes and neurological causes.",
+    "caution": "A symptom syndrome, not synonymous with schizophrenia.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "psychotic disorder",
+    "kind": "symptom / broad category",
+    "summary": "Diagnostic family involving clinically significant psychotic phenomena.",
+    "assessment": "Characterize symptom pattern, duration, functioning, mood relationship and etiologies.",
+    "caution": "Includes primary, substance-induced and medical-condition-related disorders; not one disease.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "PTSD",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Posttraumatic stress disorder after exposure to qualifying trauma with intrusion, avoidance, negative cognition/mood changes and arousal symptoms.",
+    "assessment": "Assess trauma exposure, symptom clusters, duration, impairment and dissociation.",
+    "caution": "DSM-5-TR symptoms persist longer than one month; not all post-trauma distress meets PTSD criteria.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "pure autonomic failure",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Neurodegenerative autonomic disorder causing neurogenic orthostatic hypotension without prominent initial motor features.",
+    "assessment": "Assess standing blood pressure, autonomic testing, medication causes and follow-up for evolving synucleinopathy.",
+    "caution": "Distinguish from dehydration, drug-related hypotension and multiple system atrophy.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Ramsay Hunt syndrome",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Varicella-zoster reactivation involving facial nerve, often causing painful ear vesicles and facial weakness.",
+    "assessment": "Assess facial nerve, ear/oral lesions, hearing and vestibular symptoms.",
+    "caution": "Can occur without visible rash; prompt treatment and eye protection are important.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "RCVS",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Reversible cerebral vasoconstriction syndrome, episodic cerebral arterial narrowing often causing recurrent thunderclap headaches.",
+    "assessment": "Urgent imaging and vascular evaluation; repeat imaging may be needed.",
+    "caution": "Subarachnoid hemorrhage and other dangerous causes must be excluded first.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "seizure with Todd paresis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Transient focal weakness following an epileptic seizure.",
+    "assessment": "Assess witnessed seizure, weakness duration, neurological exam, EEG and imaging when indicated.",
+    "caution": "Postictal weakness can mimic stroke; acute focal weakness still needs emergency stroke evaluation.",
+    "sources": [
+      {
+        "title": "International League Against Epilepsy — Definition and classification",
+        "url": "https://www.ilae.org/guidelines/definition-and-classification/definition-of-epilepsy-2014"
+      },
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "seizures",
+    "kind": "symptom / broad category",
+    "summary": "Transient episodes due to abnormal excessive neuronal activity; manifestations depend on involved networks.",
+    "assessment": "Assess semiology, provoking factors, witness history, EEG and brain imaging when appropriate.",
+    "caution": "Seizures can be acute symptomatic; having a seizure is not identical to having epilepsy.",
+    "sources": [
+      {
+        "title": "International League Against Epilepsy — Definition and classification",
+        "url": "https://www.ilae.org/guidelines/definition-and-classification/definition-of-epilepsy-2014"
+      },
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Separation anxiety disorder",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Excessive developmentally inappropriate fear about separation from attachment figures causing impairment.",
+    "assessment": "Assess duration, developmental stage, school/work avoidance and other anxiety disorders.",
+    "caution": "DSM-5-TR duration thresholds differ for children and adults.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Sleep deprivation",
+    "kind": "symptom / broad category",
+    "summary": "Insufficient sleep duration or quality relative to physiological need.",
+    "assessment": "Assess sleep opportunity, schedule, medications, mood and sleep disorders.",
+    "caution": "Not a specific disease; can worsen attention, mood and seizure susceptibility.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "sleep disorder",
+    "kind": "symptom / broad category",
+    "summary": "Broad group of disorders affecting sleep initiation, maintenance, breathing, timing or behavior.",
+    "assessment": "Characterize symptoms, schedule, daytime impairment and targeted sleep testing.",
+    "caution": "Insomnia, sleep apnea, parasomnias and circadian disorders require different evaluations.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "social anxiety",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Fear of negative evaluation in social situations, potentially normal or part of social anxiety disorder.",
+    "assessment": "Assess triggers, avoidance, persistence and impairment.",
+    "caution": "Social anxiety disorder requires more than occasional shyness or nervousness.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "specific phobia",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Marked, persistent fear of a particular object or situation, causing avoidance or distress out of proportion to actual danger.",
+    "assessment": "Assess fear trigger, duration, impairment and differential diagnoses.",
+    "caution": "DSM-5-TR usually requires persistence for at least six months.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Spinal cord compression",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Pressure on spinal cord producing weakness, sensory changes, gait dysfunction and possible bladder/bowel disturbance.",
+    "assessment": "Urgently assess neurological level, sphincter symptoms and MRI when suspected.",
+    "caution": "Progressive weakness, saddle symptoms or bladder dysfunction require emergency evaluation.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "spinal pathology",
+    "kind": "symptom / broad category",
+    "summary": "Broad label for structural, inflammatory, vascular, neoplastic or degenerative spinal disease.",
+    "assessment": "Localize spinal versus nerve-root findings; evaluate red flags and targeted imaging.",
+    "caution": "Not a single diagnosis; cord compression is a critical cause to exclude.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Stereotypies",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Repetitive, patterned, seemingly purposeless movements often beginning in childhood.",
+    "assessment": "Assess onset, triggers, suppressibility, developmental context and impairment.",
+    "caution": "May occur in typical development or neurodevelopmental disorders; differ from tics and seizures.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Stimulant-induced mania",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Manic symptoms temporally related to stimulant exposure or intoxication.",
+    "assessment": "Review substances, dose, timing, persistence after cessation and past independent mood episodes.",
+    "caution": "Distinguish substance-induced syndrome from bipolar disorder; urgent assessment if severe agitation or psychosis.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "stroke",
+    "kind": "symptom / broad category",
+    "summary": "Sudden brain injury due to interrupted blood flow or bleeding.",
+    "assessment": "Urgent stroke assessment, last-known-well time and neuroimaging.",
+    "caution": "An emergency even when symptoms improve; ischemic and hemorrhagic stroke require different treatment.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Substance use disorder",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Problematic pattern of substance use causing clinically significant impairment or distress.",
+    "assessment": "Assess impaired control, risky use, social effects, tolerance/withdrawal when relevant and severity.",
+    "caution": "Physical dependence alone is not necessarily a substance use disorder.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "substance-induced mood symptoms",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Depressive or manic symptoms attributable to intoxication, withdrawal or medication exposure.",
+    "assessment": "Assess timing, pharmacology, persistence and independent mood episodes.",
+    "caution": "Temporal association alone may not establish causation.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "substance-induced psychosis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Hallucinations or delusions associated with substance intoxication, withdrawal or medication effects.",
+    "assessment": "Assess toxicology context, timeline, delirium, safety and medical mimics.",
+    "caution": "Symptoms that persist beyond expected substance effects may require evaluation for primary psychosis.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "substance-induced psychotic disorder",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Formal diagnostic category for prominent psychosis caused by substance or medication exposure.",
+    "assessment": "Establish causative exposure, timing, exclusion of delirium and independent psychotic disorders.",
+    "caution": "Not every intoxication-related perceptual change meets disorder criteria.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "substance-related amnesia",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Memory impairment associated with intoxication, withdrawal or long-term neurotoxic effects.",
+    "assessment": "Assess substance history, nutritional deficiency, neurological causes and cognitive pattern.",
+    "caution": "Thiamine deficiency and Wernicke–Korsakoff syndrome are important in alcohol-related cases.",
+    "sources": [
+      {
+        "title": "American Psychiatric Association — DSM-5-TR (2022)",
+        "url": null
+      },
+      {
+        "title": "World Health Organization — ICD-11",
+        "url": "https://icd.who.int/en/"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "syncope",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Transient loss of consciousness due to brief global cerebral hypoperfusion, usually with rapid recovery.",
+    "assessment": "Assess posture, prodrome, ECG, orthostatic vitals, exertional events and cardiac risk.",
+    "caution": "Can resemble seizure; exertional syncope or abnormal ECG needs urgent evaluation.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Thyroid eye disease",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Autoimmune orbital inflammation often associated with Graves disease, causing proptosis, diplopia and eye irritation.",
+    "assessment": "Assess vision, color vision, eye movements, cornea, thyroid function and orbital imaging when needed.",
+    "caution": "Vision-threatening optic neuropathy or corneal exposure needs urgent specialist care.",
+    "sources": [
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      },
+      {
+        "title": "NICE — Published clinical guidance",
+        "url": "https://www.nice.org.uk/guidance"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "TIA",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Transient ischemic attack: temporary focal neurological dysfunction caused by ischemia without acute infarction.",
+    "assessment": "Urgent stroke/TIA assessment, vascular and cardiac workup and brain imaging.",
+    "caution": "A warning event with early stroke risk; resolution of symptoms does not make it harmless.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "tick paralysis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Acute ascending flaccid weakness caused by neurotoxin from an attached tick.",
+    "assessment": "Examine skin and scalp for ticks; assess breathing, reflexes and differential.",
+    "caution": "Removal of the tick can reverse symptoms; respiratory failure is possible.",
+    "sources": [
+      {
+        "title": "U.S. Centers for Disease Control and Prevention — Health Topics",
+        "url": "https://www.cdc.gov/"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "toxic-metabolic causes",
+    "kind": "symptom / broad category",
+    "summary": "Broad differential category for neurological or psychiatric symptoms due to toxins, drugs or systemic metabolic derangements.",
+    "assessment": "Assess medication/exposure history, glucose, electrolytes, renal/hepatic function and infection when relevant.",
+    "caution": "Not a specific diagnosis; identify the responsible process.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "toxic-metabolic encephalopathy",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Diffuse brain dysfunction due to systemic metabolic abnormalities, organ failure, drugs or toxins.",
+    "assessment": "Assess mental status, glucose, electrolytes, renal/liver tests, oxygenation and medication exposures.",
+    "caution": "Often causes global inattention and fluctuating cognition; focal signs suggest additional pathology.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Transient global amnesia",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Abrupt temporary inability to form new memories with preserved identity and other neurological functions.",
+    "assessment": "Assess witnessed repetitive questioning, duration, focal deficits, seizure and vascular alternatives.",
+    "caution": "Typically resolves within 24 hours; atypical presentations require urgent evaluation.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "trigeminal neuralgia",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Brief recurrent electric-shock facial pain in trigeminal distribution, often triggered by innocuous stimuli.",
+    "assessment": "Assess pain distribution, sensory exam, triggers and MRI when indicated.",
+    "caution": "Continuous numbness or other cranial deficits suggest secondary causes.",
+    "sources": [
+      {
+        "title": "International Headache Society — ICHD-3",
+        "url": "https://ichd-3.org/classification-outline/"
+      },
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "ulnar neuropathy",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Entrapment or injury of ulnar nerve causing numbness in ring/small fingers and intrinsic hand weakness.",
+    "assessment": "Assess elbow/wrist compression, motor exam and nerve conduction studies when indicated.",
+    "caution": "Distinguish from C8/T1 radiculopathy and generalized neuropathy.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "vestibular injury",
+    "kind": "symptom / broad category",
+    "summary": "Damage or dysfunction of peripheral or central balance pathways causing vertigo or imbalance.",
+    "assessment": "Assess timing, triggers, hearing, eye movements and neurological red flags.",
+    "caution": "Acute continuous vertigo with central signs may represent posterior circulation stroke.",
+    "sources": [
+      {
+        "title": "NIH NINDS — Neurological Disorders",
+        "url": "https://www.ninds.nih.gov/health-information/disorders"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Viral meningitis",
+    "kind": "clinical diagnosis / syndrome",
+    "summary": "Inflammation of meninges caused by a virus, often producing fever, headache and neck stiffness.",
+    "assessment": "Assess illness severity, CSF when indicated and exclude bacterial meningitis or encephalitis.",
+    "caution": "Clinical features alone may not safely distinguish viral from bacterial meningitis.",
+    "sources": [
+      {
+        "title": "U.S. Centers for Disease Control and Prevention — Health Topics",
+        "url": "https://www.cdc.gov/"
+      },
+      {
+        "title": "U.S. National Library of Medicine — MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ]
+  }
+]
